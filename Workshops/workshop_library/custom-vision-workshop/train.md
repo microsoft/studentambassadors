@@ -1,26 +1,18 @@
 # Part 1: Train your model
 
+A custom vision model 
+
 ## Create the project
 
 A project is a custom vision model. It's used to label images with the appropriate tag (or category), and perform the training. Let's start by creating a project.
 
-1. Navigate to [Custom Vision](https://www.customvision.ai) and sign in
+1. Navigate to [Custom Vision](https://www.customvision.ai?WT.mc_id=academic-49102-chrhar) and sign in
 1. Select **New Project**
 1. Enter **Dog Classification** for the project name
-1. Next to Resource, select **create new** to create a key in Azure for the service
-1. On the **Create New Resource** enter the following information
-    - **Name**: **custom-vision**
-    - **Subscription**: Choose your student subscription
-    - **Resource Group**: Select **Create New**
-        - Enter **custom-vision** for the name, and choose a location near you, then select **Create resource group**
-        - Select the **custom-vision** resource group you created
-    - **Kind**: **CustomVision.Training**
-    - **Location**: The same location you chose earlier
-    - **Pricing Tier**: **F0** for the [free tier](https://docs.microsoft.com/azure/cognitive-services/custom-vision-service/limits-and-quotas)
-    - Select **Create resource**
+1. Next to Resource, select the key you created earlier, which will use the name you created during the [setup](setup.md).
 1. For **Project Types** select **Classification**
 1. For **Classification Types** select **Multiclass**, as our dogs will only have one breed
-1. For **Domains** select **General**
+1. For **Domains** select **General \[A2\]**
 1. Select **Create project**
 
 ## Upload images
@@ -44,26 +36,6 @@ Once the project is created it's time to upload images. These images are used to
 
 > **Note**: Training the model will take a couple of minutes.
 
-## Test the model
+## Summary
 
-With the model trained, let's see how well it works. It's important to use images which weren't used to train the model. After all, if the model has already seen the image it's going to know the answer.
-
-1. Select **Quick Test**
-1. Select **Browse local files**
-1. Navigate to **testing-images** and select one of the dog images
-1. Select **Open**
-1. Notice the **tag** and **probability** scores
-
-## Publish model
-
-The goal of creating a model in Custom Vision is to use it in different applications. To access it from outside of the Custom Vision website it needs to be published.
-
-1. In the 'Performance' tab, select **Publish**
-1. Enter **dogs** for **Model name**
-1. Select the **resource** you created for **Prediction resource**
-1. Select **Publish**
-1. Select **Prediction URL** to view the endpoint address
-1. Copy the value in the grey textbox under **If you have an image file** and paste it somewhere locally where you can find it later
-1. Select **Got it**
-
-Now you're ready to use this model in an application. Continue to [part 2](./predict.md)
+Congratulations! You have trained up a custom vision model which can detect dog types. Next you'll [test and use the model](./predict.md).
