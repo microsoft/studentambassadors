@@ -4,12 +4,12 @@
 
 In this workshop you will use Python to explore AI with custom vision. Custom vision is a service which can be used to categorize images.
 
-| **Project Goal**              | *Learn about Custom Vision AI and how to use it to train and test images*                                    |
+| **Project Goal**              | Learn about Custom Vision AI and how to use it to train and test images                                    |
 | ----------------------------- | --------------------------------------------------------------------- |
-| **What will you learn**       | *Use images to train a model to be able to perform inference to classify images*                                        |
-| **What you'll need**          | *Python 3.8+, Visual Studio Code* |
+| **What will you learn**       | Use images to train a model to be able to perform inference to classify images                                        |
+| **What you'll need**          | Python 3.8+, Visual Studio Code |
 | **Duration**                  | 1 hour                                                                |
-| **Just want to try the app or see the solution?** | *a link to the completed project sample app or solution folder*                          |
+| **Just want to try the app or see the solution?** | [Solution](./solution)                         |
 | **Slides** | [Powerpoint](https://microsoft-my.sharepoint.com/:p:/p/chrhar/EVWxM2va_G9NuQ4-F23VmlwBZKWxckUWBToScPFcMBjU_g?e=rjktes)
 | **Author** | [Christopher Harrison](https://aka.ms/geektrainer)
 
