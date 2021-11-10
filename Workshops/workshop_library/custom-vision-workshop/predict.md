@@ -1,13 +1,51 @@
 # Part 2: Use the model
 
+With the model trained it's time to turn our attention to using it. We'll start by testing it in the Custom Vision website. Then we'll explore how we can call the model from code by using an SDK.
+
+## Test the model
+
+Let's see how well our model works. It's important to use images which weren't used to train the model. After all, if the model has already seen the image it's going to know the answer.
+
+1. Select **Quick Test**
+1. Select **Browse local files**
+1. Navigate to **testing-images** and select one of the dog images
+1. Select **Open**
+1. Notice the **tag** and **probability** scores
+
+## Publish model
+
+The goal of creating a model in Custom Vision is to use it in different applications. To access it from outside of the Custom Vision website it needs to be published.
+
+1. In the 'Performance' tab, select **Publish**
+1. For **Model name** enter **dogs**
+1. For **Prediction resource** select the prediction key you created earlier.
+1. Select **Publish**
+1. Select **Prediction URL** to view the endpoint address
+1. Copy the value in the grey textbox under **If you have an image file** and paste it somewhere locally where you can find it later
+1. Select **Got it**
+
 ## Obtain keys and values
 
-As with any service, we need to gather the keys and values to make our calls.
+As with any service, we need to gather the keys and values to make our calls. You'll want to copy these keys into a text file; they'll be used in the next step.
 
+1. From the **Performance** screen, select **Prediction URL**
+1. Copy the URL under **If you have an image file**; this will be used to create the endpoint
+1. Copy the hex value for the **Prediction-Key**. It will look similar to: *ba81ed4539cd46ec979a98569035a463*
+1. Select **Got it** to close the window
 1. In the upper right corner of the Custom Vision interface, select the **Gear** icon for settings
-1. Make a note of the **Key**, **Endpoint**, and **Project Id** values
+1. Copy the **Project Id** value
 
 > TIP: **Project Id** is the value on the left side of the screen
+
+### Create the endpoint value
+
+The SDK for Custom Vision uses a slightly different URL than the one you copied earlier. The value you copied will look something like the following:
+
+> `https://customvisionworkshop-prediction.cognitiveservices.azure.com/customvision/v3.0/Prediction/0dd3299b-6a41-40fe-ab06-dd20e886ccd4/classify/iterations/Iteration1/image`
+
+To create the endpoint value, remove everything after **azure.com**. Your endpoint value should look like this:
+
+> `https://customvisionworkshop-prediction.cognitiveservices.azure.com/`
 
 ## Store the necessary credentials
 
@@ -27,7 +65,7 @@ Whenever you're writing code it's a best practice to never hard-code sensitive v
 
 ## Install the packages
 
-We'll be using two Python packages to support our project. The first we already introduced, **python-dotenv**. The next is the [Custom Vision client library (or SDK)](https://docs.microsoft.com/azure/cognitive-services/custom-vision-service/quickstarts/image-classification?tabs=visual-studio&pivots=programming-language-python), which you'll use to  make the predictions.
+We'll be using two Python packages to support our project. The first we already introduced, **python-dotenv**. The next is the [Custom Vision client library (or SDK)](https://docs.microsoft.com/azure/cognitive-services/custom-vision-service/quickstarts/image-classification?tabs=visual-studio&pivots=programming-language-python&WT.mc_id=academic-49102-chrhar), which you'll use to  make the predictions.
 
 1. Create a new file named **requirements.txt**
 1. Inside **requirements.txt**, add the following:
@@ -68,7 +106,7 @@ Most Python applications start by importing the required libraries, and our prog
 1. Inside **predict.py**, add the following to import the necessary libraries:
 
     ```python
-    # Predition client
+    # Prediction client
     from azure.cognitiveservices.vision.customvision.prediction import CustomVisionPredictionClient
     # Key class for azure
     from msrest.authentication import ApiKeyCredentials
@@ -143,6 +181,9 @@ With the program created, let's run it and see what happens!
 
     > **Note**: Your percentages may not exactly match those above
 
-## Challenge
+## Summary
 
-Now that you know how to create a model, try a different set of images. You can use your camera to create an image set of things like food or plants, or use Creative Commons Licensed images from the web. Can you tell the difference between different types of noodles? Leaves? dumplings? fish?
+Congratulations! You have successfully created and called a custom vision model. The model you created can be used to classify image types. You can also create models to detect certain objects in an image. If you want to continue to grow your skills:
+
+- [Object detection with Custom Vision](https://docs.microsoft.com/learn/modules/detect-objects-images-custom-vision/?WT.mc_id=academic-49102-chrhar)
+- [Creating custom models with TensorFlow](https://docs.microsoft.com/learn/paths/tensorflow-fundamentals/?WT.mc_id=academic-49102-chrhar)
