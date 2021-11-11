@@ -1,1 +1,0 @@
-This folder contains solution files as a baseline for students to check their work.
