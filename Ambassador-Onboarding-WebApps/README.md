@@ -2,4 +2,4 @@
 
 | Ambassador Name | WebApp Link | Upload Date |
 | :----: | :----: | :----: | 
-| Jalen McGee | thisismywebapp.azurestaticapps.com | 11/18/2021 | 
+| Jalen McGee | [Jalen's Webapp](thisismywebapp.azurestaticapps.com) | 11/18/2021 | 
