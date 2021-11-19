@@ -1,6 +1,6 @@
 # Microsoft Azure <img src=___ width=150 align='right'>
 
-The **Azure cloud platform** is more than 200 products and cloud services designed to help bring new solutions to life—to solve today’s challenges and create the future. Build, run and manage applications across multiple clouds, on-premises and at the edge, with the tools and frameworks of your choice. 
+The **Azure cloud platform** is more than 200 products and cloud services designed to help bring new solutions to life — to solve today’s challenges and create the future. Build, run and manage applications across multiple clouds, on-premises and at the edge, with the tools and frameworks of your choice. 
 
 Check out more about Azure [here](https://azure.microsoft.com/en-in/overview/what-is-azure/)
 
