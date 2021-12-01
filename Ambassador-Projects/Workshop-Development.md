@@ -7,7 +7,7 @@
 4. Ensure your team is familarized with GitHub Projects by visiting the [GitHub Projects Documentation](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards)
 5. Ensure your team is familarized with Writing and formatting syntax by visiting the [Basic writing and formatting syntax Documentation](https://github.github.com/gfm/)
 
-### Instructions for Workshop Deveopment
+### Instructions for Workshop Development
 1. During Month 1, complete the Creation Phase listed detailed in the Workshop-O-Matic Cheatsheet in your project repository (you are creating a new workshop).
 2. During Month 2, complete the Logistics & Delivery Phases listed detailed in the Workshop-O-Matic Cheatsheet in your project repository. 
 3. During Month 3, complete the Feedback Phase listed detailed in the Workshop-O-Matic Cheatsheet in your project repository.
