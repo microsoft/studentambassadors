@@ -1,4 +1,4 @@
-# Getting Started with Project Sprints
+# Getting Started with Prototype Sprints
 
 ### Instructions for All Team Leads
 1. Creating a GitHub Repository for your team (ensure the repo has a README) file. 
