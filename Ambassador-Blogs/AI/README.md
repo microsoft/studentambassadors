@@ -5,7 +5,7 @@
 Check out more about Microsoft AI [here](https://www.microsoft.com/en-us/ai)
 
 ## Blogs
-- [Blog_Format](https://github.com/jasleen101010/studentambassadors/blob/main/Ambassador-Blogs/Blog-Format.md)
+- [Blog_Format](https://github.com/microsoft/studentambassadors/blob/main/Ambassador-Blogs/Blog-Format.md)
 
 
 ## How to contribute
@@ -13,7 +13,7 @@ Interested in submitting a blog about an Office app or service that interests yo
 Follow these steps to contribute to this repository:
 
 * [ ] Fork this repository.
-* [ ] Write/Rearrange your blog in the format stated in file [Blog_Format](https://github.com/jasleen101010/studentambassadors/blob/main/Ambassador-Blogs/Blog-Format.md)
+* [ ] Write/Rearrange your blog in the format stated in file [Blog_Format](https://github.com/microsoft/studentambassadors/blob/main/Ambassador-Blogs/Blog-Format.md)
 * [ ] Convert your blog into the markdowm (.md) format.
 * [ ] Commit your blog to your fork with the name of the file as ```Title_Of_Your_Blog.md```.
 * [ ] Submit a Pull Request (PR) with comments describing your blog and your Student Ambassador profile link.
