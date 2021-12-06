@@ -1,9 +1,9 @@
-# Office App and services Blogs <img src=____ width=150 align='right'>
+# Office App and services Blogs <img src=https://github.com/microsoft/studentambassadors/blob/main/Ambassador-Blogs/Assets/MS%20Learn%20Program%20Badge.png width=150 align='right'>
 
 Microsoft offers a number of Office App and Services including Microsoft Teams, Powerpoint, Excel, Word, Power BI, etc. You can check out the apps and services [here](https://www.microsoft.com/en-in/microsoft-365/products-apps-services)
 
 ## Blogs
-- [Blog_Format]()
+- [Blog_Format](https://github.com/microsoft/studentambassadors/blob/main/Ambassador-Blogs/Blog-Format.md)
 
 
 ## How to contribute
@@ -11,7 +11,7 @@ Interested in submitting a blog about an Office app or service that interests yo
 Follow these steps to contribute to this repository:
 
 * [ ] Fork this repository.
-* [ ] Write/Rearrange your blog in the format stated in file [Blog_Format]()
+* [ ] Write/Rearrange your blog in the format stated in file [Blog_Format](https://github.com/microsoft/studentambassadors/blob/main/Ambassador-Blogs/Blog-Format.md)
 * [ ] Convert your blog into the markdowm (.md) format.
 * [ ] Commit your blog to your fork with the name of the file as ```Title_Of_Your_Blog.md```.
 * [ ] Submit a Pull Request (PR) with comments describing your blog and your Student Ambassador profile link.

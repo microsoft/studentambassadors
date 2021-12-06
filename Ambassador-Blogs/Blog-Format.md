@@ -9,7 +9,7 @@ To insert images/gifs in your blog, generate or copy the link for the image/gif 
 
 ```<p align="center"><img src=https://image-url.png><br>Subtitle</p>```
 
-<p align="center"><img src=___ width=150 align='center'><br>Microsoft Learn Student Ambassadors Logo</p>
+<p align="center"><img src=https://github.com/Vidushi-Gupta/studentambassadors/blob/main/Ambassador-Blogs/Assets/MS%20Learn%20Program%20Badge.png width=150 align='center'><br>Microsoft Learn Student Ambassadors Logo</p>
 
 Paragraph 3.
 

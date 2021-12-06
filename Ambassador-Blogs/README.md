@@ -1,3 +1,5 @@
+<img src=https://github.com/microsoft/studentambassadors/blob/main/Ambassador-Blogs/Assets/MS%20Learn%20Program%20Badge.png width=150 align='right'>
+
 # Microsoft Learn Student Ambassadors Blogs 
 
 The Microsoft Learn Student Ambassadors is a program to sponsor students majoring in disciplines related to technology. And we are here with the MLSA blogs! This is a space for all our ambassadors to unleash the writers within them and contribute their work to our various blog categories.
@@ -10,11 +12,11 @@ The Microsoft Learn Student Ambassadors is a program to sponsor students majorin
 - [Developer Technologies]()
 - [Diversity to Prosperity]()
 - [Enterprise Mobility]()
-- [Microsoft Azure]()
-- [Office Apps and Services]()
-- [Office Development]()
-- [Windows and Devices for IT]()
-- [Windows Development]()
+- [Microsoft Azure](https://github.com/microsoft/studentambassadors/tree/main/Ambassador-Blogs/Microsoft%20Azure)
+- [Office Apps and Services](https://github.com/microsoft/studentambassadors/tree/main/Ambassador-Blogs/Office%20App%20and%20Services)
+- [Office Development](https://github.com/microsoft/studentambassadors/tree/main/Ambassador-Blogs/Office%20Development)
+- [Windows and Devices for IT](https://github.com/microsoft/studentambassadors/tree/main/Ambassador-Blogs/Windows%20and%20Devices%20for%20IT)
+- [Windows Development](https://github.com/microsoft/studentambassadors/tree/main/Ambassador-Blogs/Windows%20Development)
 - [Diversity and Inclusion]()
 
 ## How to contribute:

@@ -1,18 +1,18 @@
-# Microsoft Azure <img src=___ width=150 align='right'>
+# Microsoft Azure <img src=https://github.com/microsoft/studentambassadors/blob/main/Ambassador-Blogs/Assets/MS%20Learn%20Program%20Badge.png width=150 align='right'>
 
 The **Azure cloud platform** is more than 200 products and cloud services designed to help bring new solutions to life — to solve today’s challenges and create the future. Build, run and manage applications across multiple clouds, on-premises and at the edge, with the tools and frameworks of your choice. 
 
 Check out more about Azure [here](https://azure.microsoft.com/en-in/overview/what-is-azure/)
 
 ## Blogs
-- [Blog_Format]()
+- [Blog_Format](https://github.com/microsoft/studentambassadors/blob/main/Ambassador-Blogs/Blog-Format.md)
 
 ## How to contribute
 Interested in submitting a blog about an Azure solution that you developed? or your learnings from the Azure portal? or anything related to Azure? 
 Follow these steps to contribute to this repository:
 
 * [ ] Fork this repository.
-* [ ] Write/Rearrange your blog in the format stated in file [Blog_Format]()
+* [ ] Write/Rearrange your blog in the format stated in file [Blog_Format](https://github.com/microsoft/studentambassadors/blob/main/Ambassador-Blogs/Blog-Format.md)
 * [ ] Convert your blog into the markdowm (.md) format.
 * [ ] Commit your blog to your fork with the name of the file as ```Title_Of_Your_Blog.md```.
 * [ ] Submit a Pull Request (PR) with comments describing your blog and your Student Ambassador profile link.

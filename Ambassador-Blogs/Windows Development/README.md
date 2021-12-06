@@ -1,6 +1,6 @@
-# Windows Development Blogs <img src=___ width=150 align='right'>
+# Windows Development Blogs <img src=https://github.com/microsoft/studentambassadors/blob/main/Ambassador-Blogs/Assets/MS%20Learn%20Program%20Badge.png width=150 align='right'>
 ## Blogs
-- [Blog_Format]()
+- [Blog_Format](https://github.com/microsoft/studentambassadors/blob/main/Ambassador-Blogs/Blog-Format.md)
 
 
 ## How to contribute
@@ -8,7 +8,7 @@ Interested in submitting a blog on Windows Development?
 Follow these steps to contribute to this repository:
 
 * [ ] Fork this repository.
-* [ ] Write/Rearrange your blog in the format stated in file [Blog_Format]()
+* [ ] Write/Rearrange your blog in the format stated in file [Blog_Format](https://github.com/microsoft/studentambassadors/blob/main/Ambassador-Blogs/Blog-Format.md)
 * [ ] Convert your blog into the markdowm (.md) format.
 * [ ] Commit your blog to your fork with the name of the file as ```Title_Of_Your_Blog.md```.
 * [ ] Submit a Pull Request (PR) with comments describing your blog and your Student Ambassador profile link.
