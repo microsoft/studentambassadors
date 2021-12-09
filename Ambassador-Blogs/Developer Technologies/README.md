@@ -1,4 +1,4 @@
-# Developer Technologies <img src=https://github.com/microsoft/studentambassadors/blob/main/Ambassador-Blogs/Assets/MS%20Learn%20Program%20Badge.pngwidth=150 align='right'>
+# Developer Technologies <img src=https://github.com/microsoft/studentambassadors/blob/main/Ambassador-Blogs/Assets/MS%20Learn%20Program%20Badge.png width=150 align='right'>
 
 **Microsoft Developer Tools** and resources are built specifically for technology professionals. You'll find the latest technology made for those who make technology work. 
 
