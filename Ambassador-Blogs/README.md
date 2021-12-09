@@ -5,8 +5,8 @@
 The Microsoft Learn Student Ambassadors is a program to sponsor students majoring in disciplines related to technology. And we are here with the MLSA blogs! This is a space for all our ambassadors to unleash the writers within them and contribute their work to our various blog categories.
 
 ## Blog Categories:
-- [Artificial Intelligence]()
-- [Business Applications]()
+- [Artificial Intelligence](Ambassador-Blogs/Artificial%20Intelligence)
+- [Business Applications](Ambassador-Blogs/Business%20Applications)
 - [Cloud and Datacenter Management]()
 - [Data Platform]()
 - [Developer Technologies]()
