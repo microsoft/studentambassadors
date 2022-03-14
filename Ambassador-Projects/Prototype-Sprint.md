@@ -13,3 +13,11 @@
 3. Throughout Month 2, teams should work together to identify potential solutions, and choose the most promising one. Details about solutions that the team considered and why you chose the one you did should be included in the "Solution Identification" file.
 4. Throughout Month 3, teams should work together to build their technical prototype. Details about your prototype should be included on the "Prototype" file. Team Leads should use GitHub projects to assign tasks to team members to build the prototype. 
 5. Feel free to add any additional files necessary for your prototype.
+
+
+### Files required for Prototype Sprint GitHub Repo
+1. README.MD: Includes the Team Name and Project Description
+2. Problem Research.md: This is where you describe the problem research you did during month 1.
+3. Solution Identification.md: This is where you describe the solutions you identified during month 2, and you should also detail why you chose the solution you did.
+4. Solution Implementation.md: This is where you describe your prototype - how you're building it, the decisions you're making, the challenges you're having, etc.
+
