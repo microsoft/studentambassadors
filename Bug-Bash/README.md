@@ -3,7 +3,7 @@ Welcome to the GitHub repository for the [Microsoft Learn Student Ambassador](ht
 
 ## Bug Bash Instructions📄
 1. Review the materials on Azure Static Web Apps (including the modules and the quickstarts/tutorials) and try to find as many bugs as possible (e.g., What is confusing about the language used in the instructions? What issues/errors are you encountering?). The full list of materials to review is in the Bug Bash Materials section. 
-2. [Create an issue](https://github.com/microsoft/studentambassadors/issues) on this repository for each new issue you want to report. Choose the "🐞Report a Bug!" option when creating a new issue. Make sure to review the issues that others have already reported to ensure you're reporting something duplicative.
+2. [Create an issue](https://github.com/microsoft/studentambassadors/issues) on this repository for each new issue you want to report. Choose the "🐞Report a Bug!" option when creating a new issue. Make sure to review the issues that others have already reported to ensure you're not reporting something duplicative.
 3. [Sign up for our leaderboard](https://aka.ms/SACloudSkillsChallenge) to track your progress reviewing the selected Learn modules and see how everyone else is doing. Remember - the [issues logged here on GitHub](https://github.com/microsoft/studentambassadors/issues) is what really counts for the Bug Bash, not just your module completion rate!
 
 ## Bug Bash Materials 🧑‍💻
