@@ -3,7 +3,7 @@ Welcome to the GitHub repository for the [Microsoft Learn Student Ambassador](ht
 
 ## Bug Bash Instructions
 1. Review the following materials 
-2. Report your issues discovered in the Bug Bash by [creating an issue]() on this repository.
+2. Report your issues discovered in the Bug Bash by [creating an issue](https://github.com/microsoft/studentambassadors/issues) on this repository and choosing the "🐞Report a Bug!" option.
 
 ## Bug Bash Materials (suggested but not required order)
 Quickstarts on Microsoft Docs:
