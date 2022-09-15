@@ -49,15 +49,13 @@ Welcome to the GitHub repository for the [Microsoft Learn Student Ambassador](ht
 [Tutorial: Assign custom roles with a function and Microsoft Graph](https://docs.microsoft.com/azure/static-web-apps/assign-roles-microsoft-graph)
 
 ## What is a Bug Bash?
-A Bug Bash is a cross-team effort where everyone aims to find as many bugs as possible. A cross-functional team is important to test from a variety of perspectives and in different ways. For this Bug Bash, we'll be focusing on Azure Static Web Apps. 
+A Bug Bash is a cross-team effort where everyone aims to find as many bugs as possible. A cross-functional team is important to test from a variety of perspectives and in different ways. 
 
-## How does it work?
-How do we write this better?
-What are the errors?
-Help us detect issues
-- Our goal is to improve the readibility of content and understand what is helpful, what is confusing, and what gaps exists in the documentation, wording, etc.
-- Pick something that you don't think anyone else will work on, it's a great way to get exposure!
+For this Bug Bash, we'll be focusing on Azure Static Web Apps. We want to understand the following:
+- How can we write the documentation and Learn modules better? What is helpful or confusing? What gaps exist in our documentation?
+- What errors and issues are you encountering?
 
+From this, our goal is to improve the readibility of content for you specifically.
 
 ## Why should I participate?
 - Product feedback is incredibly important to our team. 
@@ -74,3 +72,5 @@ When you encounter a challenge, issue or bug, consider the following when loggin
 - Why is this an issue or challenge for you?
 - How does it impact your activities/task at hand?
 - What is your current workaround?
+
+- Pick something that you don't think anyone else will work on, it's a great way to get exposure!
