@@ -7,9 +7,11 @@ assignees: ''
 
 ---
 
-Written an article, recorded a video, created a GitHub repo, or built anything else on the Microsoft/Azure platofrm that you'd like to share? Great! We'd love hear about it! 
+#### _Written an article, recorded a video, created a GitHub repo, or built anything else on the Microsoft/Azure platofrm that you'd like to share? Great! We'd love hear about it!_
 
 > Please submit this issue only if YOU are the author (or one of the authors) on the associated item and have permission to have that link featured in our student platforms.
+
+***
 
 ## Desription
 (Tell us what you have created)
@@ -31,5 +33,8 @@ Written an article, recorded a video, created a GitHub repo, or built anything e
 ## (Optional) Anything else we need to know
 (use this to provide any information to help us in evaluating the submission for Showcase)
 
-## Blog Post Author
-(Your name and GitHub profile link for attribution)
+***
+
+#### 🎓 Add a tag to this issue for your current education role: **student**, **Student Ambassador** or **educator**.
+
+***

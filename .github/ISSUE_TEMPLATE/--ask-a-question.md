@@ -18,3 +18,9 @@ assignees: ''
 
 ## (Optional) Anything else we should know?
 (ex: Links to posts, issues, blog posts etc. where you have had similar discussions)
+
+***
+
+#### 🎓 Add a tag to this issue for your current education role: **student**, **Student Ambassador** or **educator**.
+
+***
