@@ -2,7 +2,7 @@
 Welcome to the GitHub repository for the [Microsoft Learn Student Ambassador](http://studentambassadors.microsoft.com/) Bug Bash. This GitHub repo contains the instructions for the Bug Bash as well as the space to report issues discovered in the Bug Bash.
 
 ## Bug Bash Instructions📄
-1. Review the materials (including the modules and the quickstarts/tutorials) and try to find as many bugs as possible (e.g., What is confusing about the language used in the instructions? What issues/errors are you encountering?). The full list of materials to review is in the Bug Bash Materials section. 
+1. Review the materials on Azure Static Web Apps (including the modules and the quickstarts/tutorials) and try to find as many bugs as possible (e.g., What is confusing about the language used in the instructions? What issues/errors are you encountering?). The full list of materials to review is in the Bug Bash Materials section. 
 2. [Create an issue](https://github.com/microsoft/studentambassadors/issues) on this repository for each new issue you want to report. Choose the "🐞Report a Bug!" option when creating a new issue. Make sure to review the issues that others have already reported to ensure you're reporting something duplicative.
 3. [Sign up for our leaderboard](https://aka.ms/SACloudSkillsChallenge) to track your progress reviewing the selected Learn modules and see how everyone else is doing. Remember - the [issues logged here on GitHub](https://github.com/microsoft/studentambassadors/issues) is what really counts for the Bug Bash, not just your module completion rate!
 
@@ -55,6 +55,17 @@ A Bug Bash is a cross-team effort where everyone aims to find as many bugs as po
 For this Bug Bash, we'll be focusing on Azure Static Web Apps. We want to understand the following:
 - How can we write the documentation and Learn modules better? What is helpful or confusing? What gaps exist in our documentation?
 - What errors and issues are you encountering?
+
+**Azure Static Web Apps is a modern web app service that offers streamlined full-stack development from source code to global high availability.**
+
+Benefits of Static Web Apps include:
+
+- Productivity from local development to GitHub native workflows for CI/CD
+- Managed global availability for static content
+- Dynamic scale for serverless APIs
+- Streamlined management including custom domain configuration and authentication and authorization
+- Seamless developer experience and CI/CD
+- Tailored developer experience that includes a Visual Studio Code extension
 
 Our goal is to improve the readibility and usability of this content and the Azure Static Web Apps service for you. Even if you've reviewed these Learn modules and guides many times before or if you're seeing this for the first time, we want YOUR feedback! A diversity of perspectives is important to finding as many bugs as possible and making an improvement in your experience (and for other students like you).
 
