@@ -2,7 +2,7 @@
 Welcome to the GitHub repository for the [Microsoft Learn Student Ambassador](http://studentambassadors.microsoft.com/) Bug Bash. This GitHub repo contains the instructions for the Bug Bash as well as the space to report issues discovered in the Bug Bash.
 
 ## Bug Bash Instructions📄
-1. Review the materials (including the modules and the quickstarts/tutorials) and try to find as many bugs as possible (e.g., What is confusing about the lanugage used in the instructions? What issues/errors are you encountering?). The full list of materials to review is in the Bug Bash Materials section. 
+1. Review the materials (including the modules and the quickstarts/tutorials) and try to find as many bugs as possible (e.g., What is confusing about the language used in the instructions? What issues/errors are you encountering?). The full list of materials to review is in the Bug Bash Materials section. 
 2. Report your issues as you discover them by [creating an issue](https://github.com/microsoft/studentambassadors/issues) on this repository and choosing the "🐞Report a Bug!" option. Make sure to review the issues that others have already reported to ensure you're not duplicating work.
 3. [Sign up for our leaderboard](https://aka.ms/SACloudSkillsChallenge) to track your progress reviewing the selected Learn modules and see how everyone else is doing. Remember - the [issues logged here on GitHub](https://github.com/microsoft/studentambassadors/issues) is what really counts for the Bug Bash, not just your module completion rate!
 
