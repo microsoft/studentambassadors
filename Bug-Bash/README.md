@@ -49,7 +49,7 @@ Welcome to the GitHub repository for the [Microsoft Learn Student Ambassador](ht
 
 [Tutorial: Assign custom roles with a function and Microsoft Graph](https://docs.microsoft.com/azure/static-web-apps/assign-roles-microsoft-graph)
 
-## What is a Bug Bash? 🐞
+## What is a Bug Bash? 🕵️
 A Bug Bash is a cross-team effort where everyone aims to find as many bugs as possible. A cross-functional team is important to test from a variety of perspectives and in different ways. 
 
 For this Bug Bash, we'll be focusing on Azure Static Web Apps. We want to understand the following:
@@ -58,7 +58,7 @@ For this Bug Bash, we'll be focusing on Azure Static Web Apps. We want to unders
 
 Our goal is to improve the readibility and usability of this content and the Azure Static Web Apps service for you. Even if you've reviewed these Learn modules and guides many times before or if you're seeing this for the first time, we want YOUR feedback! A diversity of perspectives is important to finding as many bugs as possible and making an improvement in your experience (and for other students like you).
 
-## Why should I participate?
+## Why should I participate? 🤔
 We've heard that you want to develop technical skills, help and empower others to learn and grow, support new Ambassadors, contribute to the community (perhaps in other ways than hosting an event), and gain industry exposure. Providing product feedback and reporting issues via this Bug Bash can help you do just that.
 
 - Reviewing these materials will not only help you further develop your technical skills, but it will also provide a better learning experience for others. Azure Static Web Apps is, and will continue to be, a large part of our [technical onboarding](https://github.com/microsoft/SATechnicalOnboarding/blob/main/technical-onboarding-instructions.md) to the Ambassadors commmunity, and this feedback will improve that learning experience for others. For those that have not yet completed the [technical onboarding](https://github.com/microsoft/SATechnicalOnboarding/blob/main/technical-onboarding-instructions.md), this is a great way to get most of that completed while also making a contribution to the community.
@@ -67,7 +67,7 @@ We've heard that you want to develop technical skills, help and empower others t
 - Help us understand how we should continue to run Bug Bashes in the future! Participate in this pilot to help us determine additional, effective ways to allow you the opportunity to provide us with product feedback and get exposure to the process and the product teams we work with to resolve outstanding issues.
 
 
-## Tips for Providing Feedback
+## Tips for Providing Feedback 🐞
 When you encounter a challenge, issue or bug, consider the following when [logging your issue]((https://github.com/microsoft/studentambassadors/issues)):
 - What issue/challenge did I encounter?
 - What steps did I take to encounter this challenge/issue? How would I reproduce it?
