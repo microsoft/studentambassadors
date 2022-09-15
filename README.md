@@ -1,4 +1,4 @@
-# Microsoft Learn Student Ambassador Community
+# Microsoft Learn Student Ambassador Community Contributions
 This Github repository serves as a space for Microsoft Learn Student Ambassador contributions.
 
 ## Contributing
