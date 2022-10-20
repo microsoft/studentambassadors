@@ -1,5 +1,5 @@
-# Microsoft Learn Student Ambassador Bug Bash
-Welcome to the GitHub repository for the [Microsoft Learn Student Ambassador](http://studentambassadors.microsoft.com/) Bug Bash. This GitHub repo contains the instructions for the Bug Bash as well as the space to report issues discovered in the Bug Bash.
+# Microsoft Learn Student Ambassador Bug Bashes - Submitting Product Feedback
+Welcome to the GitHub repository for [Microsoft Learn Student Ambassador](http://studentambassadors.microsoft.com/) Bug Bashes and product feedback activities. This GitHub repo contains the instructions for how to participate in the Bug Bashwa as well as the space to report issues discovered.
 
 ## Bug Bash Instructions📄
 1. Review the materials on Azure Static Web Apps (including the modules and the quickstarts/tutorials) and try to find as many bugs as possible (e.g., What is confusing about the language used in the instructions? What issues/errors are you encountering?). The full list of materials to review is in the Bug Bash Materials section. 
