@@ -7,7 +7,7 @@ We're currently focusing on [GitHub](https://learn.microsoft.com/en-us/users/sac
 1. **[Register for our Cloud Skills Challenge](https://aka.ms/SACloudSkillsChallenge) and complete the selected Learn modules.** While completing the modules, try to find as many bugs as possible (e.g., What is confusing about the language used in the instructions? What issues/errors are you encountering?).
 2. **[Create an issue](https://github.com/microsoft/studentambassadors/issues) on this repository for each new issue you want to report.** Choose the "🐞Report a Bug!" option when creating a new issue. Make sure to review the issues that others have already reported to ensure you're not reporting something duplicative.
 
-The more [modules](https://aka.ms/SACloudSkillsChallenge) you complete and the more [issues](https://github.com/microsoft/studentambassadors/issues) you report, the greater a chance you will have of winning a GitHub hoodie!
+The more [modules](https://aka.ms/SACloudSkillsChallenge) you complete or the more [issues](https://github.com/microsoft/studentambassadors/issues) you report, the greater a chance you will have of winning a GitHub hoodie!
 
 Interested in submitting feedback on other topics? Check out our Previous Bug Bash Materials, including [Azure Static Web Apps Learn Collection](https://learn.microsoft.com/en-us/users/sacoordinator-0284/collections/z232ano0zdwdz7).
 
