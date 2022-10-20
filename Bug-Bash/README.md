@@ -9,7 +9,7 @@ We're currently focusing on [GitHub](https://learn.microsoft.com/en-us/users/sac
 
 The more [modules](https://aka.ms/SACloudSkillsChallenge) you complete or the more [issues](https://github.com/microsoft/studentambassadors/issues) you report, the greater a chance you will have of winning a GitHub hoodie!
 
-Interested in submitting feedback on other topics? Check out our Previous Bug Bash Materials, including [Azure Static Web Apps Learn Collection](https://learn.microsoft.com/en-us/users/sacoordinator-0284/collections/z232ano0zdwdz7).
+Interested in submitting feedback on other topics? Check out our Previous Bug Bash Materials, including [Azure Static Web Apps](https://learn.microsoft.com/en-us/users/sacoordinator-0284/collections/z232ano0zdwdz7).
 
 
 ## What is a Bug Bash? 🕵️
