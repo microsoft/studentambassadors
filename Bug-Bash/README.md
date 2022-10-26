@@ -7,7 +7,11 @@ We're currently focusing on [GitHub](https://learn.microsoft.com/en-us/users/sac
 1. **[Register for our Cloud Skills Challenge](https://aka.ms/SACloudSkillsChallenge) and complete the selected Learn modules.** While completing the modules, try to find as many bugs as possible (e.g., What is confusing about the language used in the instructions? What issues/errors are you encountering?).
 2. **[Create an issue](https://github.com/microsoft/studentambassadors/issues) on this repository for each new issue you want to report.** Choose the "🐞Report a Bug!" option when creating a new issue. Make sure to review the issues that others have already reported to ensure you're not reporting something duplicative.
 
-The more [modules](https://aka.ms/SACloudSkillsChallenge) you complete or the more [issues](https://github.com/microsoft/studentambassadors/issues) you report, the greater a chance you will have of winning a GitHub hoodie!
+**How do I win a hoodie?**
+
+- For every issue [issue](https://github.com/microsoft/studentambassadors/issues) you report, you will get 2 entries into a raffle to win.
+- For every [module](https://aka.ms/SACloudSkillsChallenge) you complete, you will get 1 entry into a raffle to win.
+- Find out [other opportunities to win more hoodies with Codespaces here](https://teams.microsoft.com/l/message/19:c541ce71aafc47d1a7b76d82ab83ade2@thread.tacv2/1665685572167?tenantId=84c31ca0-ac3b-4eae-ad11-519d80233e6f&groupId=cff7388c-0545-4fd2-a2af-64d57cc616f9&parentMessageId=1665685572167&teamName=Community&channelName=Announcements&createdTime=1665685572167&allowXTenantAccess=false). 
 
 Interested in submitting feedback on other topics? Check out our Previous Bug Bash Materials, including [Azure Static Web Apps](https://learn.microsoft.com/en-us/users/sacoordinator-0284/collections/z232ano0zdwdz7).
 
@@ -24,7 +28,7 @@ Our goal is to improve the readibility and usability of content and services for
 ## Why should I participate or provide feedback? 🤔
 We've heard that you want to develop technical skills, help and empower others to learn and grow, support new Ambassadors, contribute to the community (perhaps in other ways than hosting an event), and gain industry exposure. Providing product feedback and reporting issues via this Bug Bash can help you do just that.
 
-- Reviewing these materials will not only help you further develop your technical skills, but it will also provide a better learning experience for others. Azure Static Web Apps is, and will continue to be, a large part of our [technical onboarding](https://github.com/microsoft/SATechnicalOnboarding/blob/main/technical-onboarding-instructions.md) to the Ambassadors commmunity, and this feedback will improve that learning experience for others. For those that have not yet completed the [technical onboarding](https://github.com/microsoft/SATechnicalOnboarding/blob/main/technical-onboarding-instructions.md), this is a great way to get most of that completed while also making a contribution to the community.
+- Reviewing these materials will not only help you further develop your technical skills, but it will also provide a better learning experience for others.
 - Participating in a Bug Bash and providing actionable product feedback will give you further insight into the typical activities of software development and product/program management. Additionally, your contributions in terms of feedback can be a great item to add to your resume with a clear story of what you did and the impact you had.
 - For those that are interested in being nominated to the Gold milestone, we highly recommend you participate in Bug Bashes as your schedule allows. Collecting product feedback is important to the Student Ambassador program team and our Cloud Advocate partners, and we will consider quality, actionable feedback you provide in your nomination to the Gold milestone.
 - Help us understand how we should continue to run Bug Bashes in the future! Participate in this pilot to help us determine additional, effective ways to allow you the opportunity to provide us with product feedback and get exposure to the process and the product teams we work with to resolve outstanding issues.
@@ -43,6 +47,8 @@ We recommend that you review the materials that you think less individuals will 
 
 ## Previous Bug Bash Materials 🧑‍💻
 **[Azure Static Web Apps Learn Collection](https://learn.microsoft.com/en-us/users/sacoordinator-0284/collections/z232ano0zdwdz7) - Static Web Apps is a modern web app service that offers streamlined full-stack development from source code to global high availability.**
+
+ Azure Static Web Apps is, and will continue to be, a large part of our [technical onboarding](https://github.com/microsoft/SATechnicalOnboarding/blob/main/technical-onboarding-instructions.md) to the Ambassadors commmunity, and this feedback improves that learning experience for others.
 
 Benefits of Static Web Apps include:
 
