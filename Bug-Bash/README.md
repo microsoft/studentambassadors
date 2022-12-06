@@ -2,16 +2,21 @@
 Welcome to the GitHub repository for [Microsoft Learn Student Ambassador](http://studentambassadors.microsoft.com/) Bug Bashes and product feedback activities. This GitHub repo contains the instructions for how to participate in the Bug Bashes as well as the space to report any feedback or issues discovered.
 
 ## How do I get started?📄
-We're currently focusing on [GitHub](https://learn.microsoft.com/en-us/users/sacoordinator-0284/collections/qp2purp23zew5e) in preparation for [GitHub Universe](https://githubuniverse.com/), November 9 & 10!
+We're currently focusing on C# Beginner Content as a follow up from the [.NET Conf Student Zone] (https://github.com/microsoft/dotnetconf-studentzone)!
 
-1. **[Register for our Cloud Skills Challenge](https://aka.ms/SACloudSkillsChallenge) and complete the selected Learn modules.** While completing the modules, try to find as many bugs as possible (e.g., What is confusing about the language used in the instructions? What issues/errors are you encountering?).
+1. **Navigate to the four different Learning Paths under [C# Beginner Content](https://github.com/microsoft/studentambassadors/tree/main/Bug-Bash/C%23%20Beginner%20Training) and complete the modules.**  While completing the modules, try to find as many bugs as possible (e.g., What is confusing about the language used in the instructions? What issues/errors are you encountering?).
 2. **[Create an issue](https://github.com/microsoft/studentambassadors/issues) on this repository for each new issue you want to report.** Choose the "🐞Report a Bug!" option when creating a new issue. Make sure to review the issues that others have already reported to ensure you're not reporting something duplicative.
 
-**How do I win a hoodie?**
+Learning Path order:
+1. LP_AZ_get-started-with-c-sharp
+2.	LP_AZ_create-run-simple-c-sharp-console-applications
+3.	LP_AZ_add-logic-c-sharp-console-applications
+4.	LP_AZ_work-variable-data-c-sharp-console-applications
 
-- For every issue [issue](https://github.com/microsoft/studentambassadors/issues) you report, you will get 2 entries into a raffle to win.
-- For every [module](https://aka.ms/SACloudSkillsChallenge) you complete, you will get 1 entry into a raffle to win.
-- Find out [other opportunities to win more hoodies with Codespaces here](https://teams.microsoft.com/l/message/19:c541ce71aafc47d1a7b76d82ab83ade2@thread.tacv2/1665685572167?tenantId=84c31ca0-ac3b-4eae-ad11-519d80233e6f&groupId=cff7388c-0545-4fd2-a2af-64d57cc616f9&parentMessageId=1665685572167&teamName=Community&channelName=Announcements&createdTime=1665685572167&allowXTenantAccess=false). 
+
+**How do I win a mentorship session?**
+
+- For every issue [issue](https://github.com/microsoft/studentambassadors/issues) you report, you will get 1 entry into a raffle to win a mentorship session.
 
 Interested in submitting feedback on other topics? Check out our Previous Bug Bash Materials, including [Azure Static Web Apps](https://learn.microsoft.com/en-us/users/sacoordinator-0284/collections/z232ano0zdwdz7).
 
@@ -46,6 +51,8 @@ When you encounter a challenge, issue or bug, consider the following when [loggi
 We recommend that you review the materials that you think less individuals will choose - it's a great way to find the bugs no one else has already found and increase your exposure opportunities with Microsoft.
 
 ## Previous Bug Bash Materials 🧑‍💻
+**[Git/GitHub Learn Collection](https://learn.microsoft.com/en-us/users/sacoordinator-0284/collections/qp2purp23zew5e)**
+
 **[Azure Static Web Apps Learn Collection](https://learn.microsoft.com/en-us/users/sacoordinator-0284/collections/z232ano0zdwdz7) - Static Web Apps is a modern web app service that offers streamlined full-stack development from source code to global high availability.**
 
  Azure Static Web Apps is, and will continue to be, a large part of our [technical onboarding](https://github.com/microsoft/SATechnicalOnboarding/blob/main/technical-onboarding-instructions.md) to the Ambassadors commmunity, and this feedback improves that learning experience for others.
