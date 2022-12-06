@@ -2,7 +2,7 @@
 Welcome to the GitHub repository for [Microsoft Learn Student Ambassador](http://studentambassadors.microsoft.com/) Bug Bashes and product feedback activities. This GitHub repo contains the instructions for how to participate in the Bug Bashes as well as the space to report any feedback or issues discovered.
 
 ## How do I get started?📄
-We're currently focusing on C# Beginner Content as a follow up from the [.NET Conf Student Zone] (https://github.com/microsoft/dotnetconf-studentzone)!
+We're currently focusing on C# Beginner Content as a follow up from the [.NET Conf Student Zone](https://github.com/microsoft/dotnetconf-studentzone)!
 
 1. **Navigate to the four different Learning Paths under [C# Beginner Training](https://github.com/microsoft/studentambassadors/tree/main/Bug-Bash/C%23%20Beginner%20Training) and complete the modules in the 'includes' folder.**  While completing the modules, try to find as many bugs as possible (e.g., What is confusing about the language used in the instructions? What issues/errors are you encountering?).
 2. **[Create an issue](https://github.com/microsoft/studentambassadors/issues) on this repository for each new issue you want to report.** Choose the "🐞Report a Bug!" option when creating a new issue. Make sure to review the issues that others have already reported to ensure you're not reporting something duplicative.
