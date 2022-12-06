@@ -4,14 +4,14 @@ Welcome to the GitHub repository for [Microsoft Learn Student Ambassador](http:/
 ## How do I get started?📄
 We're currently focusing on C# Beginner Content as a follow up from the [.NET Conf Student Zone] (https://github.com/microsoft/dotnetconf-studentzone)!
 
-1. **Navigate to the four different Learning Paths under [C# Beginner Content](https://github.com/microsoft/studentambassadors/tree/main/Bug-Bash/C%23%20Beginner%20Training) and complete the modules.**  While completing the modules, try to find as many bugs as possible (e.g., What is confusing about the language used in the instructions? What issues/errors are you encountering?).
+1. **Navigate to the four different Learning Paths under [C# Beginner Training](https://github.com/microsoft/studentambassadors/tree/main/Bug-Bash/C%23%20Beginner%20Training) and complete the modules in the 'includes' folder.**  While completing the modules, try to find as many bugs as possible (e.g., What is confusing about the language used in the instructions? What issues/errors are you encountering?).
 2. **[Create an issue](https://github.com/microsoft/studentambassadors/issues) on this repository for each new issue you want to report.** Choose the "🐞Report a Bug!" option when creating a new issue. Make sure to review the issues that others have already reported to ensure you're not reporting something duplicative.
 
 Learning Path order:
-1. LP_AZ_get-started-with-c-sharp
-2.	LP_AZ_create-run-simple-c-sharp-console-applications
-3.	LP_AZ_add-logic-c-sharp-console-applications
-4.	LP_AZ_work-variable-data-c-sharp-console-applications
+1. [LP_AZ_get-started-with-c-sharp](https://github.com/microsoft/studentambassadors/tree/main/Bug-Bash/C%23%20Beginner%20Training/1_LP_AZ_get-started-with-c-sharp)
+2.	[LP_AZ_create-run-simple-c-sharp-console-applications](https://github.com/microsoft/studentambassadors/tree/main/Bug-Bash/C%23%20Beginner%20Training/2_LP_AZ_create-run-simple-c-sharp-console-applications)
+3.	[LP_AZ_add-logic-c-sharp-console-applications](https://github.com/microsoft/studentambassadors/tree/main/Bug-Bash/C%23%20Beginner%20Training/3_LP_AZ_add-logic-c-sharp-console-applications)
+4.	[LP_AZ_work-variable-data-c-sharp-console-applications](https://github.com/microsoft/studentambassadors/tree/main/Bug-Bash/C%23%20Beginner%20Training/4_LP_AZ_work-variable-data-c-sharp-console-applications)
 
 
 **How do I win a mentorship session?**
