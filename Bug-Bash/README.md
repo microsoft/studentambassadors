@@ -1,4 +1,4 @@
-# Microsoft Learn Student Ambassador Bug Bashes - Submitting Product Feedback
+# Microsoft Learn Student Ambassador Bug Bashes - Providing Product Feedback
 Welcome to the GitHub repository for [Microsoft Learn Student Ambassador](http://studentambassadors.microsoft.com/) Bug Bashes and product feedback activities. This GitHub repo contains the instructions for how to participate in the Bug Bashes as well as the space to report any feedback or issues discovered.
 
 ## How do I get started?📄
