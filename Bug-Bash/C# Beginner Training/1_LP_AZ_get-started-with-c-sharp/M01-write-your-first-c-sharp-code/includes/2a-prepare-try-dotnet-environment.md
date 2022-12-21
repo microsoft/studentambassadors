@@ -4,7 +4,7 @@ In this first Learning Path, you'll be running C# code samples in the Web browse
 
 Microsoft has implemented **Try .NET** in the MS Learn environment to make it easier for anyone to learn how to code. Unfortunately, we didn't have time to integrate **Try .NET** with the content for this review process.
 
-Instead, we are asking you use **Try .NET** in one window while you review the training content using a second window. We realize that this is not ideal, sorry. Once we publish the training to the MS Learn platform, the **Try .NET** tool will open in the same window as the learning content.
+Instead, we ask you to use **Try .NET** in one window while you review the training content using a second window. We realize that this is not ideal, sorry. Once we publish the training to the MS Learn platform, the **Try .NET** tool will open in the same window as the learning content.
 
 ## Prepare your environment
 
