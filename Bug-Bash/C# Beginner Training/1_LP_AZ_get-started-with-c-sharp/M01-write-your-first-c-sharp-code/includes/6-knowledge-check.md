@@ -3,7 +3,7 @@
 ## Multiple Choice
 
 What is the primary job of the compiler?
-( ) The compiler primarily locates spelling mistakes in your code. {{Incorrect. While it's possible you misspelled something in your code and that produces an error, that isn't the primary job of the compiler.}}
+( ) The compiler primarily locates spelling mistakes in your code. {{Incorrect. While it's possible you misspelt something in your code, which produces an error, that isn't the primary job of the compiler.}}
 ( ) The compiler primarily executes your code. {{Incorrect. The compiler doesn't execute your code, but makes it possible for your code to be executed.}}
 (x) The compiler primarily converts your code into an executable format that the computer can understand. {{Correct!}}
 
@@ -19,4 +19,4 @@ Which of the following statements is **true** about C#.
 What is **wrong** with this line of code?  `Console.WriteLine("What is wrong with me?")`
 ( ) The `L` in `WriteLine` should be lower-case. {{Incorrect. The `L` should be upper case.}}
 (x) It's missing a semi-colon at the end {{Correct!  The semi-colon must be used at the end of a code statement.}}
-( ) The string should use single-quotes. {{Incorrect. A string literal must be surrounded in double-quotes.  A char literal is surrounded in single quotes.}}
+( ) The string should use single-quotes. {{Incorrect. A string literal must be surrounded in double-quotes.  A char literal is surrounded by single quotes.}}
