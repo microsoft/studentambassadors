@@ -4,7 +4,7 @@ To understand how your code works, you need to step back and think about what a 
 
 Programming languages like C# let you write instructions that you want the computer to carry out. Each programming language has a different syntax, but after you learn your first programming language and attempt to learn a second one, you'll quickly realize that they all share many similar ideas. A programming language's job is to allow a human to write instructions in a human-readable and understandable way. The instructions you write in a programming language are called "source code", or just "code".
 
-At this point, a software developer can update and change the code, but the computer can't understand the code. The code first must be *compiled* into a format that the computer can understand.
+At this point, a software developer can update and change the code, but the computer can't understand the code. The code must first be *compiled* into a format that the computer can understand.
 
 ## What is compilation?
 
@@ -25,10 +25,9 @@ Let's focus on the following line of code you wrote:
 ```c#
 Console.WriteLine("Hello World!");
 ```
+When you ran your code, you saw that the message `Hello World!` was printed to the output pane. When double quotation marks surround the phrase in your C# code, it's called a **literal string**. In other words, we literally wanted the characters `H`, `e`, `l`, `l`, `o`, and so on, sent to the output. You'll learn about literal strings in the module titled [Store and retrieve data using literal and variable values in C#](https://github.com/MicrosoftDocs/learn-pr/blob/61e05994b92dde61c3ebd5d31d22a5dae000d246/learn/modules/csharp-literals-variables).
 
-When you ran your code, you saw that the message `Hello World!` was printed to the output pane. When the phrase is surrounded by double-quotation marks in your C# code, it's called a **literal string**. In other words, we literally wanted the characters `H`, `e`, `l`, `l`, `o`, and so on, sent to the output. You'll learn about literal strings in the module titled [Store and retrieve data using literal and variable values in C#](https://github.com/MicrosoftDocs/learn-pr/blob/61e05994b92dde61c3ebd5d31d22a5dae000d246/learn/modules/csharp-literals-variables).
-
-The `WriteLine()` part is called a **method**. You can always spot a method because it has a set of parenthesis after it. Each method has one job. The `WriteLine()` method's job is to write a line of data to the output window. The data that's printed is sent in between the opening and closing parenthesis as an input parameter. Some methods need input parameters, others don't. But if you want to invoke a method, you must always use the parenthesis after the method's name. The parentheses are known as the *method invocation operator*. You'll learn more about calling methods in the module titled [Call methods from the .NET Class Library using C#](https://github.com/MicrosoftDocs/learn-pr/blob/61e05994b92dde61c3ebd5d31d22a5dae000d246/learn/modules/csharp-call-methods).
+The `WriteLine()` part is called a **method**.   You can always spot a method because it has a set of parentheses after it. Each method has one job. The `WriteLine()` method's job is to write a line of data to the output window. The printed data is sent between the opening and closing parenthesis as input parameters. Some methods need input parameters, others don't. But if you want to invoke a method, you must always use the parenthesis after the method's name. The parentheses are known as the *method invocation operator*. You'll learn more about calling methods in the module titled [Call methods from the .NET Class Library using C#](https://github.com/MicrosoftDocs/learn-pr/blob/61e05994b92dde61c3ebd5d31d22a5dae000d246/learn/modules/csharp-call-methods).
 
 The `Console` part is called a **class**. Classes "own" methods; or perhaps a better way to say it is that methods live inside of a class. To visit the method, you must know which class it's in. For now, think of a class as a way to store and organize all of the methods that do similar things. In this case, all of the methods that operate on your Output pane are defined inside of the Console class.
 
@@ -47,9 +46,9 @@ Don't worry if all of these ideas and terms don't make sense. For now, all you r
 
 ## Understand the flow of execution
 
-Also, it's important to understand the flow of execution. In other words, your code instructions were executed in order, one line at a time, until there were no more instructions to execute. Some instructions will require the CPU to wait before it can continue. Other instructions can be used to change the flow of execution. You'll learn about these special situations as you learn more C# syntax and methods in the .NET Class Library.
+Also, it's essential to understand the flow of execution. In other words, your code instructions were executed in order, one line at a time, until there were no more instructions to execute. Some instructions will require the CPU to wait before it can continue. Other instructions can be used to change the flow of execution. You'll learn about these special situations as you learn more C# syntax and methods in the .NET Class Library.
 
-Now, let's test what you've learned. Each module features a simple challenge, and if you get stuck, we'll supply you with a solution. In the next unit, you'll get a chance to write some C# on your own.
+Now, let's test what you've learned. Each module features a simple challenge, and we'll supply you with a solution if you get stuck. In the next unit, you'll get to write some C# on your own.
 
 ## quiz title: Check your knowledge
 
