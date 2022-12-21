@@ -52,9 +52,9 @@ You'd get the following error message:
 (1,1): error CS0103: The name 'console' does not exist in the current context
 ```
 
-The first part `(1,1)` indicates the line and column where the error occurred. But what does this error message mean?
+The first part, `(1,1)`, indicates the line and column where the error occurred. But what does this error message mean?
 
-C# is a case-sensitive language, meaning that the C# compiler considers the words `console` and `Console` as different as the words `cat` and `dog`. Sometimes, the error message can be a bit misleading. You'll need to understand the true reason why the error exists, and that comes through learning more about C#'s syntax.
+C# is a case-sensitive language, meaning that the C# compiler considers the words `console` and `Console` as different as the words `cat` and `dog`. Sometimes, the error message can be a bit misleading. You'll need to understand the valid reason why the error exists, which comes from learning more about C#'s syntax
 
 Similarly, if you used single-quotation marks to surround the literal string `Hello World!` like so:
 
