@@ -135,6 +135,7 @@ the Azure platform to build and deploy your applications and services in
 the cloud. So, Azure VMs can be a great solution for many different
 scenarios.
 
+Credit to Microsoft Learn Platform
 More information read the docs on
 <https://learn.microsoft.com/en-us/azure/virtual-machines/>.You can also
 attend Azure virtual Training day on
