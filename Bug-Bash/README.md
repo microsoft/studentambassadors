@@ -2,24 +2,14 @@
 Welcome to the GitHub repository for [Microsoft Learn Student Ambassador](http://studentambassadors.microsoft.com/) Bug Bashes and product feedback activities. This GitHub repo contains the instructions for how to participate in the Bug Bashes as well as the space to report any feedback or issues discovered.
 
 ## How do I get started?📄
-We're currently focusing on C# Beginner Content as a follow up from the [.NET Conf Student Zone](https://github.com/microsoft/dotnetconf-studentzone)! Your feedback will ensure a good learner experience in the initial release of these Learning Paths and help the team gauge the instruction level that is required to ensure learners are successful. **This bug bash will be active December 6 - December 31.**
+**[Create an issue](https://github.com/microsoft/studentambassadors/issues) on this repository for each new issue you want to report.** Choose the "🐞Report a Bug!" option when creating a new issue. Make sure to review the issues that others have already reported to ensure you're not reporting something duplicative.
 
-1. **Navigate to the four different Learning Paths under [C# Beginner Training](https://github.com/microsoft/studentambassadors/tree/main/Bug-Bash/C%23%20Beginner%20Training) and complete the modules in the 'includes' folder.**  While completing the modules, try to find as many bugs as possible (e.g., What is confusing about the language used in the instructions? What issues/errors are you encountering?).
-2. **[Create an issue](https://github.com/microsoft/studentambassadors/issues) on this repository for each new issue you want to report.** Choose the "🐞Report a Bug!" option when creating a new issue. Make sure to review the issues that others have already reported to ensure you're not reporting something duplicative.
-
-**Learning Path order:**
-1. [Get Started with C#](https://github.com/microsoft/studentambassadors/tree/main/Bug-Bash/C%23%20Beginner%20Training/1_LP_AZ_get-started-with-c-sharp)
-2.	[Create and run simple C# console applications](https://github.com/microsoft/studentambassadors/tree/main/Bug-Bash/C%23%20Beginner%20Training/2_LP_AZ_create-run-simple-c-sharp-console-applications)
-3.	[Add logic to C# console applications](https://github.com/microsoft/studentambassadors/tree/main/Bug-Bash/C%23%20Beginner%20Training/3_LP_AZ_add-logic-c-sharp-console-applications)
-4.	[Work with variable data in C# console applications](https://github.com/microsoft/studentambassadors/tree/main/Bug-Bash/C%23%20Beginner%20Training/4_LP_AZ_work-variable-data-c-sharp-console-applications)
-
-
-**How do I win a mentorship session?**
-
-- For every issue [issue](https://github.com/microsoft/studentambassadors/issues) you report, you will get 1 entry into a raffle to win a mentorship session.
-
-Interested in submitting feedback on other topics? Check out our Previous Bug Bash Materials, including [Azure Static Web Apps](https://learn.microsoft.com/en-us/users/sacoordinator-0284/collections/z232ano0zdwdz7).
-
+We're looking for feedback on the following areas:
+1. AI
+2. ML & Data
+3. Application Development
+4. Developer Tools
+5. Low Code / Fusion Development
 
 ## What is a Bug Bash? 🕵️
 A Bug Bash is a cross-team effort where everyone aims to find as many bugs as possible. A cross-functional team is important to test from a variety of perspectives and in different ways. 
@@ -51,6 +41,13 @@ When you encounter a challenge, issue or bug, consider the following when [loggi
 We recommend that you review the materials that you think less individuals will choose - it's a great way to find the bugs no one else has already found and increase your exposure opportunities with Microsoft.
 
 ## Previous Bug Bash Materials 🧑‍💻
+**C# Beginner Content** - Navigate to the four different Learning Paths under [C# Beginner Training](https://github.com/microsoft/studentambassadors/tree/main/Bug-Bash/C%23%20Beginner%20Training) and complete the modules in the 'includes' folder.**  While completing the modules, try to find as many bugs as possible (e.g., What is confusing about the language used in the instructions? What issues/errors are you encountering?).
+
+1. [Get Started with C#](https://github.com/microsoft/studentambassadors/tree/main/Bug-Bash/C%23%20Beginner%20Training/1_LP_AZ_get-started-with-c-sharp)
+2.	[Create and run simple C# console applications](https://github.com/microsoft/studentambassadors/tree/main/Bug-Bash/C%23%20Beginner%20Training/2_LP_AZ_create-run-simple-c-sharp-console-applications)
+3.	[Add logic to C# console applications](https://github.com/microsoft/studentambassadors/tree/main/Bug-Bash/C%23%20Beginner%20Training/3_LP_AZ_add-logic-c-sharp-console-applications)
+4.	[Work with variable data in C# console applications](https://github.com/microsoft/studentambassadors/tree/main/Bug-Bash/C%23%20Beginner%20Training/4_LP_AZ_work-variable-data-c-sharp-console-applications)
+
 **[Git/GitHub Learn Collection](https://learn.microsoft.com/en-us/users/sacoordinator-0284/collections/qp2purp23zew5e)**
 
 **[Azure Static Web Apps Learn Collection](https://learn.microsoft.com/en-us/users/sacoordinator-0284/collections/z232ano0zdwdz7) - Static Web Apps is a modern web app service that offers streamlined full-stack development from source code to global high availability.**
