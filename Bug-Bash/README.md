@@ -1,15 +1,17 @@
 # Microsoft Learn Student Ambassador Bug Bashes - Providing Product Feedback
 Welcome to the GitHub repository for [Microsoft Learn Student Ambassador](http://studentambassadors.microsoft.com/) Bug Bashes and product feedback activities. This GitHub repo contains the instructions for how to participate in the Bug Bashes as well as the space to report any feedback or issues discovered.
 
-## How do I get started?📄
+## How do I get started?📄 Provide us feedback on Cognitive Services!
+Right now we're focusing on collecting feedback on [Cognitive Services](https://learn.microsoft.com/azure/cognitive-services/what-are-cognitive-services) - cloud-based artificial intelligence (AI) services that help developers build cognitive intelligence into applications without having direct AI or data science skills or knowledge! 
+**[Register for our Cloud Skills Challenge](https://aka.ms/SACloudSkillsChallenge) and complete modules to build an end-to-end project with Cognitive Services.** While completing, find as many "bugs" as you can (What do you like/dislike about using Cognitive Services? What's confusing? What errors/issues do you see?)
 **[Create an issue](https://github.com/microsoft/studentambassadors/issues) on this repository for each new issue you want to report.** Choose the "🐞Report a Bug!" option when creating a new issue. Make sure to review the issues that others have already reported to ensure you're not reporting something duplicative.
 
-We're looking for feedback on the following areas:
-1. AI
-2. ML & Data
-3. Application Development
-4. Developer Tools
-5. Low Code / Fusion Development
+For additional feedback outside our bug bashes listed in our repo, we're looking for feedback on the following areas:
+1. Artificial Intelligence - VSCode, Azure Applied AI Services, Data Science Virtual Machines, Computer Vision, Azure Form Recognizer, QnA Maker
+2. Machine Learning & Data - VSCode, Azure Cognitive Services, Azure ML, R Server for HDInsight, Data Science Virtual Machines (DSVM), HDInsight, Azure Synapse Analytics 
+3. Application Development - VS Code, Dev CLI, Container Apps, App Service for Containers, Functions, Load Testing, Codespaces
+4. Developer Tools - VS Code, GitHub, Azure DevOps, Codespaces
+5. Low Code / Fusion Development - Power Apps, Power Automate, Power BI, Teams, m365 Developer
 
 ## What is a Bug Bash? 🕵️
 A Bug Bash is a cross-team effort where everyone aims to find as many bugs as possible. A cross-functional team is important to test from a variety of perspectives and in different ways. 
