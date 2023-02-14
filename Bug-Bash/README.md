@@ -1,10 +1,10 @@
 # Microsoft Learn Student Ambassador Bug Bashes - Providing Product Feedback
 Welcome to the GitHub repository for [Microsoft Learn Student Ambassador](http://studentambassadors.microsoft.com/) Bug Bashes and product feedback activities. This GitHub repo contains the instructions for how to participate in the Bug Bashes as well as the space to report any feedback or issues discovered.
 
-## How do I get started?📄 Provide us feedback on Cognitive Services!
+## How do I get started?📄 Provide us feedback on Cognitive Services for a chance to win a Microsoft backpack or pencil pouch!
 Right now we're focusing on collecting feedback on [Cognitive Services](https://learn.microsoft.com/azure/cognitive-services/what-are-cognitive-services) - cloud-based artificial intelligence (AI) services that help developers build cognitive intelligence into applications without having direct AI or data science skills or knowledge! 
 
-**[Register for our Cloud Skills Challenge](https://aka.ms/SACloudSkillsChallenge) and complete modules to build an end-to-end project with Cognitive Services.** While completing, find as many "bugs" as you can (What do you like/dislike about using Cognitive Services? What's confusing? What errors/issues do you see?)
+**[Build an end-to-end project with Cognitive Services](https://aka.ms/SABugBashCollection) by completing the modules and reviewing the guides in the Learn Collection.** While completing, find as many "bugs" as you can (What do you like/dislike about using Cognitive Services? What's confusing? What errors/issues do you see?)
 
 **[Create an issue](https://github.com/microsoft/studentambassadors/issues) on this repository for each new issue you want to report.** Choose the "🐞Report a Bug!" option when creating a new issue. Make sure to review the issues that others have already reported to ensure you're not reporting something duplicative.
 
