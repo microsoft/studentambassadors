@@ -8,6 +8,8 @@ Right now we're focusing on collecting feedback on [Cognitive Services](https://
 
 **[Create an issue](https://github.com/microsoft/studentambassadors/issues) on this repository for each new issue you want to report.** Choose the "🐞Report a Bug!" option when creating a new issue. Make sure to review the issues that others have already reported to ensure you're not reporting something duplicative.
 
+**Raffle Information:** One piece of feedback provided in the [GitHub repo](https://github.com/microsoft/studentambassadors/issues) will get you one entry into the raffle for a chance to win a Microsoft backpack or pencil pouch.
+
 For additional feedback outside our bug bashes listed in our repo, we're looking for feedback on the following areas:
 1. Artificial Intelligence - VSCode, Azure Applied AI Services, Data Science Virtual Machines, Computer Vision, Azure Form Recognizer, QnA Maker
 2. Machine Learning & Data - VSCode, Azure Cognitive Services, Azure ML, R Server for HDInsight, Data Science Virtual Machines (DSVM), HDInsight, Azure Synapse Analytics 
