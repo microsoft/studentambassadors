@@ -4,7 +4,7 @@ Welcome to the GitHub repository for [Microsoft Learn Student Ambassador](http:/
 ## How do I get started?📄 Provide us feedback on Cognitive Services for a chance to win a Microsoft backpack or pencil pouch!
 Right now we're focusing on collecting feedback on [Cognitive Services](https://learn.microsoft.com/azure/cognitive-services/what-are-cognitive-services) - cloud-based artificial intelligence (AI) services that help developers build cognitive intelligence into applications without having direct AI or data science skills or knowledge! 
 
-**[Build a quick end-to-end project with Cognitive Services](https://aka.ms/SABugBashCollection) by completing the modules and reviewing the guides in the Learn Collection.** While completing, find as many "bugs" as you can (What do you like/dislike about using Cognitive Services? What's confusing? What errors/issues do you see?)
+**[Build a quick end-to-end project with Cognitive Services](https://aka.ms/SABugBashCollection) by completing the modules and reviewing the guides in the Learn Collection.** While completing, find as many "bugs" as you can - "bugs" can be an actual defect OR a feature enhancement. What do you like/dislike about using Cognitive Services? What's confusing? What errors/issues do you see?
 
 **[Create an issue](https://github.com/microsoft/studentambassadors/issues) on this repository for each new issue you want to report.** Choose the "🐞Report a Bug!" option when creating a new issue. Make sure to review the issues that others have already reported to ensure you're not reporting something duplicative.
 
@@ -21,10 +21,10 @@ For additional feedback outside our bug bashes listed in our repo, we're looking
 A Bug Bash is a cross-team effort where everyone aims to find as many bugs as possible. A cross-functional team is important to test from a variety of perspectives and in different ways. 
 
 We want to understand the following:
-- How can we write the documentation and Learn modules better? What is helpful or confusing? What gaps exist in our documentation?
+- How can we build our services better? What is helpful or confusing? What do you like or dislike about using these services?
 - What errors and issues are you encountering?
 
-Our goal is to improve the readibility and usability of content and services for you. Even if you've reviewed these Learn modules and guides many times before or if you're seeing this for the first time, we want YOUR feedback! A diversity of perspectives is important to finding as many bugs as possible and making an improvement in your experience (and for other students like you).
+Our goal is to improve the usability of Azure services for you. Even if you've used this services before, we want YOUR feedback! A diversity of perspectives is important to finding as many bugs as possible and sharing ideas for feature enhancements and making an improvement in your experience (and for other students like you).
 
 ## Why should I participate or provide feedback? 🤔
 We've heard that you want to develop technical skills, help and empower others to learn and grow, support new Ambassadors, contribute to the community (perhaps in other ways than hosting an event), and gain industry exposure. Providing product feedback and reporting issues via this Bug Bash can help you do just that.
