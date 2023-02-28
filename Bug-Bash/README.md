@@ -6,7 +6,7 @@ Right now we're focusing on collecting feedback on [Cognitive Services](https://
 
 **[Build a quick end-to-end project with Cognitive Services](https://aka.ms/SABugBashCollection) by completing the modules and reviewing the guides in the Learn Collection.** While completing, find as many "bugs" as you can - "bugs" can be an actual defect OR a feature enhancement. What do you like/dislike about using Cognitive Services? What's confusing? What errors/issues do you see?
 
-**[Create an issue](https://github.com/microsoft/studentambassadors/issues) on this repository for each new issue you want to report.** Choose the "🐞Report a Bug!" option when creating a new issue. Make sure to review the issues that others have already reported to ensure you're not reporting something duplicative.
+**[Create an issue](https://github.com/microsoft/studentambassadors/issues) on this repository for each new issue you want to report.** Choose the "🐞Report a Bug!" option when creating a new issue. Make sure to review the issues that others have already reported to ensure you're not reporting something duplicative. We encourage you to comment on issues already submitted if you are facing a similar challenge or have a similar feature request.
 
 **Raffle Information:** One piece of feedback provided in the [GitHub repo](https://github.com/microsoft/studentambassadors/issues) will get you one entry into the raffle for a chance to win a Microsoft backpack or pencil pouch.
 
