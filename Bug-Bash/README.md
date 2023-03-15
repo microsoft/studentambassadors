@@ -1,21 +1,22 @@
 # Microsoft Learn Student Ambassador Bug Bashes - Providing Product Feedback
 Welcome to the GitHub repository for [Microsoft Learn Student Ambassador](http://studentambassadors.microsoft.com/) Bug Bashes and product feedback activities. This GitHub repo contains the instructions for how to participate in the Bug Bashes as well as the space to report any feedback or issues discovered.
 
-## How do I get started?📄 Provide us feedback on Cognitive Services for a chance to win a Microsoft backpack or pencil pouch!
-Right now we're focusing on collecting feedback on [Cognitive Services](https://learn.microsoft.com/azure/cognitive-services/what-are-cognitive-services) - cloud-based artificial intelligence (AI) services that help developers build cognitive intelligence into applications without having direct AI or data science skills or knowledge! 
+## How do I get started?📄
+**1. Help us improve Azure for Students by completing [this survey](https://aka.ms/A4S-survey)** and let us know via the survey if you're interested in joining a live user study! 
 
-**[Build a quick end-to-end project with Cognitive Services](https://aka.ms/SABugBashCollection) by completing the modules and reviewing the guides in the Learn Collection.** While completing, find as many "bugs" as you can - "bugs" can be an actual defect OR a feature enhancement. What do you like/dislike about using Cognitive Services? What's confusing? What errors/issues do you see?
+**2. Help us improve [Cognitive Services](https://learn.microsoft.com/azure/cognitive-services/what-are-cognitive-services)** - cloud-based artificial intelligence (AI) services that help developers build cognitive intelligence into applications without having direct AI or data science skills or knowledge! 
+
+- **[Build a quick end-to-end project with Cognitive Services](https://aka.ms/SABugBashCollection) by completing the modules and reviewing the guides in the Learn Collection.**
+- While completing, find as many "bugs" as you can - "bugs" can be an actual defect OR a feature enhancement. What do you like/dislike about using Cognitive Services? What's confusing? What errors/issues do you see?
 
 **[Create an issue](https://github.com/microsoft/studentambassadors/issues) on this repository for each new issue you want to report.** Choose the "🐞Report a Bug!" option when creating a new issue. Make sure to review the issues that others have already reported to ensure you're not reporting something duplicative. We encourage you to comment on issues already submitted if you are facing a similar challenge or have a similar feature request.
 
-**Raffle Information:** One piece of feedback provided in the [GitHub repo](https://github.com/microsoft/studentambassadors/issues) will get you one entry into the raffle for a chance to win a Microsoft backpack or pencil pouch.
-
-For additional feedback outside our bug bashes listed in our repo, we're looking for feedback on the following areas:
-1. Artificial Intelligence - VSCode, Azure Applied AI Services, Data Science Virtual Machines, Computer Vision, Azure Form Recognizer, QnA Maker
-2. Machine Learning & Data - VSCode, Azure Cognitive Services, Azure ML, R Server for HDInsight, Data Science Virtual Machines (DSVM), HDInsight, Azure Synapse Analytics 
-3. Application Development - VSCode, Dev CLI, Container Apps, App Service for Containers, Functions, Load Testing, Codespaces
-4. Developer Tools - VS Code, GitHub, Azure DevOps, Codespaces
-5. Low Code / Fusion Development - Power Apps, Power Automate, Power BI, Teams, m365 Developer
+**3. Feedback is always welcome on the following areas.** Review already logged [issues](https://github.com/microsoft/studentambassadors/issues) by other Student Ambassadors and comment on those where you're also experiencing an issue.
+- Artificial Intelligence - VSCode, Azure Applied AI Services, Data Science Virtual Machines, Computer Vision, Azure Form Recognizer, QnA Maker
+- Machine Learning & Data - VSCode, Azure Cognitive Services, Azure ML, R Server for HDInsight, Data Science Virtual Machines (DSVM), HDInsight, Azure Synapse Analytics 
+- Application Development - VSCode, Dev CLI, Container Apps, App Service for Containers, Functions, Load Testing, Codespaces
+- Developer Tools - VS Code, GitHub, Azure DevOps, Codespaces
+- Low Code / Fusion Development - Power Apps, Power Automate, Power BI, Teams, m365 Developer
 
 ## What is a Bug Bash? 🕵️
 A Bug Bash is a cross-team effort where everyone aims to find as many bugs as possible. A cross-functional team is important to test from a variety of perspectives and in different ways. 
@@ -111,4 +112,4 @@ Benefits of Static Web Apps include:
 [Tutorial: Assign custom roles with a function and Microsoft Graph](https://docs.microsoft.com/azure/static-web-apps/assign-roles-microsoft-graph)
 
 
-Good luck bug bashing!
+Have fun bug bashing!
