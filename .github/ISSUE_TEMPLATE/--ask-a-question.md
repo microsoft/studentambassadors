@@ -2,7 +2,7 @@
 name: "✋ Ask a Question"
 about: 'Have a question on '
 title: ''
-labels: ''
+labels: 'question'
 assignees: ''
 
 ---
@@ -21,6 +21,8 @@ assignees: ''
 
 ***
 
-#### 🎓 Add a tag to this issue for your current education role: **student**, **Student Ambassador** or **educator**.
+#### 🎓 Add a tag to this issue for your current education role: **student**, **professional**, **Student Ambassador**, or **educator**.
+
+#### 💻 Add a tag to this issue for tech topic: **AI**, **Application Development**, **Data Science/ML**, **Developer Tools**, or **Low Code**.
 
 ***

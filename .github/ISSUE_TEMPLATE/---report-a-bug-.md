@@ -2,7 +2,7 @@
 name: "\U0001F41E Report a Bug!"
 about: Create a report to help us improve
 title: ''
-labels: ''
+labels: 'bug'
 assignees: ''
 
 ---
@@ -39,6 +39,7 @@ Add any other context about the problem here.
 
 ***
 
-#### 🎓 Add a tag to this issue for your current education role: **student**, **Student Ambassador** or **educator**.
+#### 🎓 Add a tag to this issue for your current education role: **student**, **professional**, **Student Ambassador**, or **educator**.
 
+#### 💻 Add a tag to this issue for tech topic: **AI**, **Application Development**, **Data Science/ML**, **Developer Tools**, or **Low Code**.
 ***

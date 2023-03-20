@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-#### _Written an article, recorded a video, created a GitHub repo, or built anything else on the Microsoft/Azure platofrm that you'd like to share? Great! We'd love hear about it!_
+#### _Written an article, recorded a video, created a GitHub repo, or built anything else on the Microsoft/Azure platform that you'd like to share? Great! We'd love hear about it!_
 
 > Please submit this issue only if YOU are the author (or one of the authors) on the associated item and have permission to have that link featured in our student platforms.
 
@@ -35,6 +35,8 @@ assignees: ''
 
 ***
 
-#### 🎓 Add a tag to this issue for your current education role: **student**, **Student Ambassador** or **educator**.
+#### 🎓 Add a tag to this issue for your current education role: **student**, **professional**, **Student Ambassador**, or **educator**.
+
+#### 💻 Add a tag to this issue for tech topic: **AI**, **Application Development**, **Data Science/ML**, **Developer Tools**, or **Low Code**.
 
 ***

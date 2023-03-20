@@ -1,8 +1,8 @@
 ---
 name: "\U0001F4A1 Request a Feature"
-about: Suggest an idea for this project
+about: Suggest an idea
 title: ''
-labels: ''
+labels: 'enhancement'
 assignees: ''
 
 ---
@@ -21,6 +21,8 @@ Add any other context or screenshots about the feature request here.
 
 ***
 
-#### 🎓 Add a tag to this issue for your current education role: **student**, **Student Ambassador** or **educator**.
+#### 🎓 Add a tag to this issue for your current education role: **student**, **professional**, **Student Ambassador**, or **educator**.
+
+#### 💻 Add a tag to this issue for tech topic: **AI**, **Application Development**, **Data Science/ML**, **Developer Tools**, or **Low Code**.
 
 ***
