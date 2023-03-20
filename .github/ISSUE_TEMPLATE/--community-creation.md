@@ -13,7 +13,7 @@ assignees: ''
 
 ***
 
-## Desription
+## Description
 (Tell us what you have created)
 
 ## Content Link
