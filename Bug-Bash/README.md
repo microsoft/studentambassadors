@@ -2,12 +2,12 @@
 Welcome to the GitHub repository for [Microsoft Learn Student Ambassador](http://studentambassadors.microsoft.com/) Bug Bashes and product feedback activities. This GitHub repo contains the instructions for how to participate in the Bug Bashes as well as the space to report any feedback or issues discovered.
 
 ## How do I get started?📄
-**1. Help us improve Azure for Students by completing [this survey](https://aka.ms/A4S-survey)** and let us know via the survey if you're interested in joining a live user study! 
 
-**2. Help us improve [Cognitive Services](https://learn.microsoft.com/azure/cognitive-services/what-are-cognitive-services)** - cloud-based artificial intelligence (AI) services that help developers build cognitive intelligence into applications without having direct AI or data science skills or knowledge! 
+**1. Help us improve [Azure SQL Database](https://learn.microsoft.com/azure/azure-sql/azure-sql-iaas-vs-paas-what-is-overview?view=azuresql)** - a relational database-as-a-service (DBaaS) hosted in Azure. It  handles most of the database management functions such as upgrading, patching, backups, and monitoring without user involvement.
 
-- **[Build a quick end-to-end project with Cognitive Services](https://aka.ms/SABugBashCollection) by completing the modules and reviewing the guides in the Learn Collection.**
-- While completing, find as many "bugs" as you can - "bugs" can be an actual defect OR a feature enhancement. What do you like/dislike about using Cognitive Services? What's confusing? What errors/issues do you see?
+- **[Build a quick end-to-end project with Azure SQL](https://aka.ms/SABugBashCollection) by completing the modules and reviewing the guides in the Learn Collection.**
+- OR, by [completeing the groups of quickstarts below](#bug-bash-docs-collection)
+- While completing, find as many "bugs" as you can - "bugs" can be an actual defect OR a feature enhancement. What do you like/dislike about using Azure SQL? What's confusing? What errors/issues do you see?
 
 **[Create an issue](https://github.com/microsoft/studentambassadors/issues) on this repository for each new issue you want to report.** Choose the "🐞Report a Bug!" option when creating a new issue. Make sure to review the issues that others have already reported to ensure you're not reporting something duplicative. We encourage you to comment on issues already submitted if you are facing a similar challenge or have a similar feature request.
 
@@ -17,6 +17,29 @@ Welcome to the GitHub repository for [Microsoft Learn Student Ambassador](http:/
 - Application Development - VSCode, Dev CLI, Container Apps, App Service for Containers, Functions, Load Testing, Codespaces
 - Developer Tools - VS Code, GitHub, Azure DevOps, Codespaces
 - Low Code / Fusion Development - Power Apps, Power Automate, Power BI, Teams, m365 Developer
+
+## Bug Bash Docs collection
+
+**Step 1: Create and Configure a Database**
+
+_Complete both quickstarts to create a Azure SQL Database and configure it_
+
+- [Create a single database](https://learn.microsoft.com/en-us/azure/azure-sql/database/single-database-create-quickstart?view=azuresql&tabs=azure-portal)
+- [Create an Azure portal server-level firewall rule](https://learn.microsoft.com/en-us/azure/azure-sql/database/firewall-create-server-level-portal-quickstart?view=azuresql)
+
+**Step 2: SQL Queries**
+
+_Complete one of the two quickstarts to query your new database_
+
+- [Connect and query an Azure SQL Database in Azure Data Studio](https://learn.microsoft.com/en-us/sql/azure-data-studio/quickstart-sql-database?toc=%2Fazure%2Fsql-database%2Ftoc.json&view=sql-server-ver16)
+- [Query SQL Database with query editor in the Azure portal](https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-portal?view=azuresql)
+
+**Step 3: Make an application or API**
+
+_Complete one of these quickstarts to query your new database to create an application with your database_
+
+- [Quickstart to Data API builder for Azure SQL Database](https://learn.microsoft.com/en-us/azure/data-api-builder/get-started/get-started-azure-sql)
+- [Application development overview](https://learn.microsoft.com/azure/azure-sql/database/develop-overview?view=azuresql)
 
 ## What is a Bug Bash? 🕵️
 A Bug Bash is a cross-team effort where everyone aims to find as many bugs as possible. A cross-functional team is important to test from a variety of perspectives and in different ways. 
@@ -48,6 +71,10 @@ When you encounter a challenge, issue or bug, consider the following when [loggi
 We recommend that you review the materials that you think less individuals will choose - it's a great way to find the bugs no one else has already found and increase your exposure opportunities with Microsoft.
 
 ## Previous Bug Bash Materials 🧑‍💻
+
+ **[Build a quick end-to-end project with Cognitive Services](https://learn.microsoft.com/users/bethanyjepchumba-3484/collections/yd8jbr28g0w33m) by completing the modules and reviewing the guides in the Learn Collection.**
+- While completing, find as many "bugs" as you can - "bugs" can be an actual defect OR a feature enhancement. What do you like/dislike about using Cognitive Services? What's confusing? What errors/issues do you see?
+
 **C# Beginner Content** - Navigate to the four different Learning Paths under [C# Beginner Training](https://github.com/microsoft/studentambassadors/tree/main/Bug-Bash/C%23%20Beginner%20Training) and complete the modules in the 'includes' folder.**  While completing the modules, try to find as many bugs as possible (e.g., What is confusing about the language used in the instructions? What issues/errors are you encountering?).
 
 1. [Get Started with C#](https://github.com/microsoft/studentambassadors/tree/main/Bug-Bash/C%23%20Beginner%20Training/1_LP_AZ_get-started-with-c-sharp)
