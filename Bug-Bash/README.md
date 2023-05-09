@@ -21,19 +21,22 @@ Welcome to the GitHub repository for [Microsoft Learn Student Ambassador](http:/
 ## Bug Bash Docs collection
 
 **Step 1: Create and Configure a Database**
-Complete these two quickstarts to create a Azure SQL Database and configure it
+
+_Complete both quickstarts to create a Azure SQL Database and configure it_
 
 - [Create a single database](https://learn.microsoft.com/en-us/azure/azure-sql/database/single-database-create-quickstart?view=azuresql&tabs=azure-portal)
 - [Create an Azure portal server-level firewall rule](https://learn.microsoft.com/en-us/azure/azure-sql/database/firewall-create-server-level-portal-quickstart?view=azuresql)
 
 **Step 2: SQL Queries**
-Complete one of these quickstarts to query your new database
+
+_Complete one of the two quickstarts to query your new database_
 
 - [Connect and query an Azure SQL Database in Azure Data Studio](https://learn.microsoft.com/en-us/sql/azure-data-studio/quickstart-sql-database?toc=%2Fazure%2Fsql-database%2Ftoc.json&view=sql-server-ver16)
 - [Query SQL Database with query editor in the Azure portal](https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-portal?view=azuresql)
 
 **Step 3: Make an application or API**
-Complete one of these quickstarts to query your new database to create an application with your database
+
+_Complete one of these quickstarts to query your new database to create an application with your database_
 
 - [Quickstart to Data API builder for Azure SQL Database](https://learn.microsoft.com/en-us/azure/data-api-builder/get-started/get-started-azure-sql)
 - [Application development overview](https://learn.microsoft.com/azure/azure-sql/database/develop-overview?view=azuresql)
