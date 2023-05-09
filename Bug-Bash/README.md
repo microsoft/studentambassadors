@@ -2,12 +2,11 @@
 Welcome to the GitHub repository for [Microsoft Learn Student Ambassador](http://studentambassadors.microsoft.com/) Bug Bashes and product feedback activities. This GitHub repo contains the instructions for how to participate in the Bug Bashes as well as the space to report any feedback or issues discovered.
 
 ## How do I get started?📄
-**1. Help us improve Azure for Students by completing [this survey](https://aka.ms/A4S-survey)** and let us know via the survey if you're interested in joining a live user study! 
 
-**2. Help us improve [Cognitive Services](https://learn.microsoft.com/azure/cognitive-services/what-are-cognitive-services)** - cloud-based artificial intelligence (AI) services that help developers build cognitive intelligence into applications without having direct AI or data science skills or knowledge! 
+**1. Help us improve [Azure SQL Database](https://learn.microsoft.com/azure/azure-sql/azure-sql-iaas-vs-paas-what-is-overview?view=azuresql)** - a relational database-as-a-service (DBaaS) hosted in Azure. It  handles most of the database management functions such as upgrading, patching, backups, and monitoring without user involvement.
 
-- **[Build a quick end-to-end project with Cognitive Services](https://aka.ms/SABugBashCollection) by completing the modules and reviewing the guides in the Learn Collection.**
-- While completing, find as many "bugs" as you can - "bugs" can be an actual defect OR a feature enhancement. What do you like/dislike about using Cognitive Services? What's confusing? What errors/issues do you see?
+- **[Build a quick end-to-end project with Azure SQL](https://aka.ms/SABugBashCollection) by completing the modules and reviewing the guides in the Learn Collection.**
+- While completing, find as many "bugs" as you can - "bugs" can be an actual defect OR a feature enhancement. What do you like/dislike about using Azure SQL? What's confusing? What errors/issues do you see?
 
 **[Create an issue](https://github.com/microsoft/studentambassadors/issues) on this repository for each new issue you want to report.** Choose the "🐞Report a Bug!" option when creating a new issue. Make sure to review the issues that others have already reported to ensure you're not reporting something duplicative. We encourage you to comment on issues already submitted if you are facing a similar challenge or have a similar feature request.
 
@@ -46,70 +45,6 @@ When you encounter a challenge, issue or bug, consider the following when [loggi
 - What is your current workaround?
 
 We recommend that you review the materials that you think less individuals will choose - it's a great way to find the bugs no one else has already found and increase your exposure opportunities with Microsoft.
-
-## Previous Bug Bash Materials 🧑‍💻
-**C# Beginner Content** - Navigate to the four different Learning Paths under [C# Beginner Training](https://github.com/microsoft/studentambassadors/tree/main/Bug-Bash/C%23%20Beginner%20Training) and complete the modules in the 'includes' folder.**  While completing the modules, try to find as many bugs as possible (e.g., What is confusing about the language used in the instructions? What issues/errors are you encountering?).
-
-1. [Get Started with C#](https://github.com/microsoft/studentambassadors/tree/main/Bug-Bash/C%23%20Beginner%20Training/1_LP_AZ_get-started-with-c-sharp)
-2.	[Create and run simple C# console applications](https://github.com/microsoft/studentambassadors/tree/main/Bug-Bash/C%23%20Beginner%20Training/2_LP_AZ_create-run-simple-c-sharp-console-applications)
-3.	[Add logic to C# console applications](https://github.com/microsoft/studentambassadors/tree/main/Bug-Bash/C%23%20Beginner%20Training/3_LP_AZ_add-logic-c-sharp-console-applications)
-4.	[Work with variable data in C# console applications](https://github.com/microsoft/studentambassadors/tree/main/Bug-Bash/C%23%20Beginner%20Training/4_LP_AZ_work-variable-data-c-sharp-console-applications)
-
-**[Git/GitHub Learn Collection](https://learn.microsoft.com/en-us/users/sacoordinator-0284/collections/qp2purp23zew5e)**
-
-**[Azure Static Web Apps Learn Collection](https://learn.microsoft.com/en-us/users/sacoordinator-0284/collections/z232ano0zdwdz7) - Static Web Apps is a modern web app service that offers streamlined full-stack development from source code to global high availability.**
-
- Azure Static Web Apps is, and will continue to be, a large part of our [technical onboarding](https://github.com/microsoft/SATechnicalOnboarding/blob/main/technical-onboarding-instructions.md) to the Ambassadors commmunity, and this feedback improves that learning experience for others.
-
-Benefits of Static Web Apps include:
-
-- Productivity from local development to GitHub native workflows for CI/CD
-- Managed global availability for static content
-- Dynamic scale for serverless APIs
-- Streamlined management including custom domain configuration and authentication and authorization
-- Seamless developer experience and CI/CD
-- Tailored developer experience that includes a Visual Studio Code extension
-
-**[Publish an Angular, React, Svelte, or Vue JavaScript app with Azure Static Web Apps](https://docs.microsoft.com/training/modules/publish-app-service-static-web-app-api/)**
-
-[Quickstart: Building your first static site with Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=vanilla-javascript)
-
-[Quickstart: Building your first static site in the Azure portal](https://docs.microsoft.com/azure/static-web-apps/get-started-portal?tabs=vanilla-javascript&pivots=github)
-
-[Quickstart: Building your first static site using the Azure CLI](https://docs.microsoft.com/azure/static-web-apps/get-started-cli?tabs=vanilla-javascript)
-
-[Tutorial: Publish a VuePress site](https://docs.microsoft.com/azure/static-web-apps/publish-vuepress)
-
-**[Publish an API to Azure Static Web Apps](https://docs.microsoft.com/training/modules/publish-static-web-app-api-preview-url/)**
-
-**[Authenticate users with Azure Static Web Apps](https://docs.microsoft.com/training/modules/publish-static-web-app-authentication/)**
-
-
-**[Publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps](https://docs.microsoft.com/en-us/training/modules/publish-app-service-static-web-app-api-dotnet/)**
-
-[Tutorial: Building a static web app with Blazor in Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/deploy-blazor)
-
-**[Create and publish a static web app with Gatsby and Azure Static Web Apps](https://docs.microsoft.com/en-us/training/modules/create-deploy-static-webapp-gatsby-app-service/)**
-
-[Tutorial: Publish a Gatsby site](https://docs.microsoft.com/azure/static-web-apps/publish-gatsby)
-
-[Tutorial: Publish a Hugo site](https://docs.microsoft.com/azure/static-web-apps/publish-hugo)
-
-[Tutorial: Publish a Jekyll site](https://docs.microsoft.com/azure/static-web-apps/publish-jekyll)
-
-[Deploy static-rendered Next.js websites on Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/deploy-nextjs)
-
-[Deploy static-rendered Nuxt.js websites on Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/deploy-nuxtjs)
-
-**[Build full stack applications with Azure Static Web Apps and Azure SQL Database](https://docs.microsoft.com/training/modules/build-full-stack-apps/)**
-
-[Tutorial: Publish Azure Static Web Apps using an ARM Template](https://docs.microsoft.com/azure/static-web-apps/publish-azure-resource-manager?tabs=azure-cli)
-
-[Tutorial: Access data in Cosmos DB using Mongoose with Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/add-mongoose)
-
-[Tutorial: Manually configure Azure Front Door for Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/front-door-manual)
-
-[Tutorial: Assign custom roles with a function and Microsoft Graph](https://docs.microsoft.com/azure/static-web-apps/assign-roles-microsoft-graph)
 
 
 Have fun bug bashing!
