@@ -6,7 +6,7 @@ Welcome to the GitHub repository for [Microsoft Learn Student Ambassador](http:/
 **1. Help us improve [Azure SQL Database](https://learn.microsoft.com/azure/azure-sql/azure-sql-iaas-vs-paas-what-is-overview?view=azuresql)** - a relational database-as-a-service (DBaaS) hosted in Azure. It  handles most of the database management functions such as upgrading, patching, backups, and monitoring without user involvement.
 
 - **[Build a quick end-to-end project with Azure SQL](https://aka.ms/SABugBashCollection) by completing the modules and reviewing the guides in the Learn Collection.**
-- OR, by [completeing the groups of quickstarts below](Bug-Bash-Docs-collection)
+- OR, by [completeing the groups of quickstarts below](#bug-bash-docs-collection)
 - While completing, find as many "bugs" as you can - "bugs" can be an actual defect OR a feature enhancement. What do you like/dislike about using Azure SQL? What's confusing? What errors/issues do you see?
 
 **[Create an issue](https://github.com/microsoft/studentambassadors/issues) on this repository for each new issue you want to report.** Choose the "🐞Report a Bug!" option when creating a new issue. Make sure to review the issues that others have already reported to ensure you're not reporting something duplicative. We encourage you to comment on issues already submitted if you are facing a similar challenge or have a similar feature request.
