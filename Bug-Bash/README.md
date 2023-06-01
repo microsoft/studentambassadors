@@ -13,10 +13,10 @@ Welcome to the GitHub repository for [Microsoft Learn Student Ambassador](http:/
 
 **3. Feedback is always welcome on the following areas.** Review already logged [issues](https://github.com/microsoft/studentambassadors/issues) by other Student Ambassadors and comment on those where you're also experiencing an issue.
 - Artificial Intelligence - VSCode, Azure Applied AI Services, Data Science Virtual Machines, Computer Vision, Azure Form Recognizer, QnA Maker
-- Machine Learning & Data - VSCode, Azure Cognitive Services, Azure ML, R Server for HDInsight, Data Science Virtual Machines (DSVM), HDInsight, Azure Synapse Analytics 
+- Data - VSCode, Azure Cognitive Services, Azure ML, R Server for HDInsight, Data Science Virtual Machines (DSVM), HDInsight, Azure Synapse Analytics 
 - Application Development - VSCode, Dev CLI, Container Apps, App Service for Containers, Functions, Load Testing, Codespaces
 - Developer Tools - VS Code, GitHub, Azure DevOps, Codespaces
-- Low Code / Fusion Development - Power Apps, Power Automate, Power BI, Teams, m365 Developer
+- Low Code - Power Apps, Power Automate, Power BI, Teams, m365 Developer
 
 ## Bug Bash Docs collection
 
