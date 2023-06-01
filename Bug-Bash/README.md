@@ -12,11 +12,11 @@ Welcome to the GitHub repository for [Microsoft Learn Student Ambassador](http:/
 **[Create an issue](https://github.com/microsoft/studentambassadors/issues) on this repository for each new issue you want to report.** Choose the "🐞Report a Bug!" option when creating a new issue. Make sure to review the issues that others have already reported to ensure you're not reporting something duplicative. We encourage you to comment on issues already submitted if you are facing a similar challenge or have a similar feature request.
 
 **3. Feedback is always welcome on the following areas.** Review already logged [issues](https://github.com/microsoft/studentambassadors/issues) by other Student Ambassadors and comment on those where you're also experiencing an issue.
-- Artificial Intelligence - VSCode, Azure Applied AI Services, Data Science Virtual Machines, Computer Vision, Azure Form Recognizer, QnA Maker
-- Data - VSCode, Azure Cognitive Services, Azure ML, R Server for HDInsight, Data Science Virtual Machines (DSVM), HDInsight, Azure Synapse Analytics 
-- Application Development - VSCode, Dev CLI, Container Apps, App Service for Containers, Functions, Load Testing, Codespaces
-- Developer Tools - VS Code, GitHub, Azure DevOps, Codespaces
-- Low Code - Power Apps, Power Automate, Power BI, Teams, m365 Developer
+- Artificial Intelligence - Azure Applied AI Service, Data Science Virtual Machines, Computer Vision, Azure Form Recognizer, QnA Maker, R Server for HDInsight, Visual Studio Code, GitHub Copilot​
+- Data - Microsoft Fabric, Azure Synapse Analytics, Power BI, Notebooks, Data Lake, CosmosDB, Azure SQL​ 
+- Application Development - Visual Studio Code, Dev CLI, Container Apps, App Service for Containers, Functions, Load Testing, Codespaces​
+- Developer Tools - Visual Studio Code, GitHub, Azure DevOps, Codespaces
+- Low Code - Power Apps, Power Automate, Power BI, Teams, m365 Developer, Visual Studio Code, Visual Studio
 
 ## Bug Bash Docs collection
 
