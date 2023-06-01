@@ -9,9 +9,9 @@ Welcome to the GitHub repository for [Microsoft Learn Student Ambassador](http:/
 - OR, by [completing the groups of quickstarts below](#bug-bash-docs-collection)
 - While completing, find as many "bugs" as you can - "bugs" can be an actual defect OR a feature enhancement. What do you like/dislike about using Azure SQL? What's confusing? What errors/issues do you see?
 
-**[Create an issue](https://github.com/microsoft/studentambassadors/issues) on this repository for each new issue you want to report.** Choose the "🐞Report a Bug!" option when creating a new issue. Make sure to review the issues that others have already reported to ensure you're not reporting something duplicative. We encourage you to comment on issues already submitted if you are facing a similar challenge or have a similar feature request.
+**2. [Create an issue](https://github.com/microsoft/studentambassadors/issues) on this repository for each new issue you want to report.** Choose the "🐞Report a Bug!" option when creating a new issue. Make sure to review the issues that others have already reported to ensure you're not reporting something duplicative. We encourage you to comment on issues already submitted if you are facing a similar challenge or have a similar feature request.
 
-**3. Feedback is always welcome on the following areas.** Review already logged [issues](https://github.com/microsoft/studentambassadors/issues) by other Student Ambassadors and comment on those where you're also experiencing an issue.
+**Feedback is always welcome on the following areas.** Review already logged [issues](https://github.com/microsoft/studentambassadors/issues) by other Student Ambassadors and comment on those where you're also experiencing an issue.
 - Artificial Intelligence - Azure Applied AI Service, Data Science Virtual Machines, Computer Vision, Azure Form Recognizer, QnA Maker, R Server for HDInsight, Visual Studio Code, GitHub Copilot​
 - Data - Microsoft Fabric, Azure Synapse Analytics, Power BI, Notebooks, Data Lake, CosmosDB, Azure SQL​ 
 - Application Development - Visual Studio Code, Dev CLI, Container Apps, App Service for Containers, Functions, Load Testing, Codespaces​
