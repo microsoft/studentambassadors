@@ -35,7 +35,7 @@ Microsoft has developed a wide range of accessibility tools that empower individ
 
 ### Inclusive Design Principles:
 
-Microsoft follows inclusive design principles to ensure that their products and services are accessible and usable by a diverse range of users. Some key principles include:
+Microsoft follows [inclusive design principles](https://www.microsoft.com/design/inclusive/) to ensure that their products and services are accessible and usable by a diverse range of users. Some key principles include:
 
 - **Recognizing and valuing diversity**: Microsoft understands that everyone has unique abilities and needs. They prioritize designing for the broadest range of users to create products that work for everyone.
 - **Solving for one, extending to many**: Microsoft designs with empathy, focusing on addressing the needs of specific individuals and then extending those solutions to benefit a broader user base.
