@@ -34,6 +34,7 @@ Microsoft has developed a wide range of accessibility tools that empower individ
 - **Microsoft Office Accessibility**: [Microsoft Office applications](https://www.microsoft.com/en-us/accessibility/microsoft-365?activetab=pivot_1%3aprimaryr2), including Word, PowerPoint, and Excel, integrate accessibility features such as screen readers, keyboard shortcuts, and live captions. These features ensure that individuals with disabilities can create, edit, and consume content effectively.
 - **Seeing AI**: Microsoft's [Seeing AI app](https://www.microsoft.com/en-us/ai/seeing-ai) utilizes artificial intelligence to assist individuals with visual impairments. The app can recognize and describe objects, read text, and provide audio guidance, enhancing independence and accessibility in daily activities.
 - **Xbox Adaptive Controller**: Microsoft developed the [Xbox Adaptive Controller](https://www.microsoft.com/en-us/d/xbox-adaptive-controller/8nsdbhz1n3d8) to make gaming more accessible. This innovative controller allows individuals with limited mobility to customize their gaming setup with adaptive switches and devices, opening up new opportunities for inclusive gaming experiences.
+- **Accessibility tools for mental health**: Microsoft offer support for people who have a mental health condition such as bipolar disorder, anxiety, PTSD, or depression. The tools can help with focus, reading, and attention.
 
 ### Inclusive Design Principles:
 
