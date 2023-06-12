@@ -32,7 +32,7 @@ Microsoft has developed a wide range of accessibility tools that empower individ
 - **Windows Ease of Access**: Microsoft's Windows operating system incorporates a suite of accessibility features, such as magnification options, narrator for screen reading, and speech recognition, enabling individuals with visual impairments, motor disabilities, and other challenges to access and navigate their devices.
 - **Microsoft Office Accessibility**: Microsoft Office applications, including Word, PowerPoint, and Excel, integrate accessibility features such as screen readers, keyboard shortcuts, and live captions. These features ensure that individuals with disabilities can create, edit, and consume content effectively.
 - **Seeing AI**: Microsoft's [Seeing AI app](https://www.microsoft.com/en-us/ai/seeing-ai) utilizes artificial intelligence to assist individuals with visual impairments. The app can recognize and describe objects, read text, and provide audio guidance, enhancing independence and accessibility in daily activities.
-- **Xbox Adaptive Controller**: Microsoft developed the Xbox Adaptive Controller to make gaming more accessible. This innovative controller allows individuals with limited mobility to customize their gaming setup with adaptive switches and devices, opening up new opportunities for inclusive gaming experiences.
+- **Xbox Adaptive Controller**: Microsoft developed the [Xbox Adaptive Controller](https://www.microsoft.com/en-us/d/xbox-adaptive-controller/8nsdbhz1n3d8) to make gaming more accessible. This innovative controller allows individuals with limited mobility to customize their gaming setup with adaptive switches and devices, opening up new opportunities for inclusive gaming experiences.
 
 ### Inclusive Design Principles:
 
