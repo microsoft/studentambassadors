@@ -3,6 +3,9 @@
 *Introduction:*
 At Microsoft, we firmly believe that diversity is a catalyst for innovation, growth, and societal progress. In this blog post, we explore how Microsoft's commitment to embracing diversity and fostering inclusion not only aligns with the principles of a prosperous future but also shapes our products and services. Join us as we delve into the ways Microsoft leverages diversity to drive positive change and empower individuals and communities worldwide.
 
+[![Video Title](https://img.youtube.com/vi/0ToxfLHTgN0/maxresdefault.jpg)](https://www.youtube.com/watch?v=0ToxfLHTgN0)
+
+
 ## 1. Diversity as the Foundation
 
 - Microsoft's inclusive culture: Highlight how Microsoft values diversity at its core, creating an environment where employees can bring their whole selves to work. Discuss initiatives like employee resource groups and diversity training programs that foster a culture of belonging and respect.
