@@ -56,7 +56,7 @@ Microsoft is dedicated to bridging the digital divide and ensuring that technolo
 
 Microsoft's commitment to diversity and inclusion is exemplified through the success stories of individuals within the company. For instance:
 
-- **Satya Nadella**(https://www.linkedin.com/in/satyanadella/), Microsoft's CEO, is a strong advocate for diversity and inclusion. Under his leadership, the company has taken significant steps to foster a more inclusive culture.
+- [**Satya Nadella**](https://www.linkedin.com/in/satyanadella/), Microsoft's CEO, is a strong advocate for diversity and inclusion. Under his leadership, the company has taken significant steps to foster a more inclusive culture.
 - Microsoft has various employee stories that highlight the impact of diversity in their careers and the contributions they bring to the company. These stories demonstrate how diversity drives innovation, creativity, and problem-solving.
 
 
