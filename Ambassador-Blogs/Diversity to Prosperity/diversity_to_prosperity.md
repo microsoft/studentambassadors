@@ -12,7 +12,7 @@ At Microsoft, we firmly believe that diversity is a catalyst for innovation, gro
 
 ## 1. Diversity as the Foundation
 
-- Microsoft's inclusive culture: Microsoft recognizes the importance of affinity groups and supports a wide range of Employee Resource Groups (ERGs). These ERGs provide a platform for employees to connect, network, and support one another based on shared characteristics, interests, or experiences. The ERGs cater to various communities, including groups focused on ethnicity, gender, sexual orientation, disabilities, and more.
+- Microsoft's inclusive culture: Microsoft recognizes the importance of affinity groups and supports a wide range of [Employee Resource Groups (ERGs)](https://blogs.microsoft.com/bayarea/2018/04/30/microsoft-employee-resource-groups-creating-community-and-celebrating-diversity-across-silicon-valley-and-san-francisco/). These ERGs provide a platform for employees to connect, network, and support one another based on shared characteristics, interests, or experiences. The ERGs cater to various communities, including groups focused on ethnicity, gender, sexual orientation, disabilities, and more.
 - Diverse workforce: Microsoft is dedicated to creating a diverse workforce that reflects the world it serves. The company's commitment to diversity encompasses various dimensions, including gender diversity, racial and ethnic representation, and inclusion of individuals with disabilities. Let's explore Microsoft's efforts in these areas, along with some statistics and success stories that showcase their progress and ongoing commitment to diversity
 
 * Gender Diversity. Microsoft recognizes the importance of gender diversity and is actively working towards achieving gender parity within its workforce.
