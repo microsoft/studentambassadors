@@ -19,7 +19,6 @@ At Microsoft, we firmly believe that diversity is a catalyst for innovation, gro
 * Racial and Ethnic Representation. Microsoft is dedicated to increasing racial and ethnic representation throughout its organization, recognizing the importance of diverse perspectives and experiences.
 * Inclusion of Individuals with Disabilities. Microsoft strives to create an inclusive environment that welcomes and supports individuals with disabilities. They believe that diverse abilities contribute to innovation and creativity.
 
-
 ## 2. Inclusive Products and Services
 
 Microsoft is committed to ensuring that their products and services are accessible to all individuals, regardless of their abilities. The company embraces inclusive design principles and develops innovative accessibility tools to empower individuals with disabilities and bridge the digital divide. 
