@@ -5,6 +5,11 @@ Byansi Anthony | [LinkedIn](https://www.linkedin.com/in/byansi-anthony-7a027222a
 *Introduction:*
 At Microsoft, we firmly believe that diversity is a catalyst for innovation, growth, and societal progress. In this blog post, we explore how Microsoft's commitment to embracing diversity and fostering inclusion not only aligns with the principles of a prosperous future but also shapes our products and services. Join us as we delve into the ways Microsoft leverages diversity to drive positive change and empower individuals and communities worldwide.
 
+<video width="640" height="360" controls>
+  <source src="https://www.microsoft.com/en-us/accessibility" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 [![Video Title](https://img.youtube.com/vi/-nGaDdfLXNg/maxresdefault.jpg)](https://www.youtube.com/watch?v=-nGaDdfLXNg)
 
 
