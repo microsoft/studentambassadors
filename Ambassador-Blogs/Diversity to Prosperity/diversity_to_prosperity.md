@@ -1,4 +1,5 @@
-# From Diversity to Prosperity: Microsoft's Commitment to Inclusion
+# From Diversity to Prosperity: Microsoft's Commitment to Inclusion.
+Byansi Anthony | [@LinkedIn](https://www.linkedin.com/in/byansi-anthony-7a027222a/)
 
 *Introduction:*
 At Microsoft, we firmly believe that diversity is a catalyst for innovation, growth, and societal progress. In this blog post, we explore how Microsoft's commitment to embracing diversity and fostering inclusion not only aligns with the principles of a prosperous future but also shapes our products and services. Join us as we delve into the ways Microsoft leverages diversity to drive positive change and empower individuals and communities worldwide.
