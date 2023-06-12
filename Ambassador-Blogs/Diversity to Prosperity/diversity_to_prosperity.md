@@ -48,7 +48,7 @@ Microsoft follows [inclusive design principles](https://www.microsoft.com/design
 
 Microsoft is dedicated to bridging the digital divide and ensuring that technology is accessible to underserved communities and individuals with limited resources. Some of Microsoft's initiatives include:
 
-- **Digital Skills and Education**: Microsoft invests in digital skills programs and partnerships to provide individuals from underserved communities with access to technology training and resources. These initiatives aim to empower individuals with the skills they need to thrive in a digital world.
+- **Digital Skills and Education**: Microsoft invests in digital skills [programs](https://www.microsoft.com/en-gb/home/digital-skills/) and partnerships to provide individuals from underserved communities with access to technology training and resources. These initiatives aim to empower individuals with the skills they need to thrive in a digital world.
 - **Affordable Access**: Microsoft collaborates with partners worldwide to make technology more affordable and accessible. This includes initiatives to provide affordable internet access, access to hardware, and digital literacy programs in underserved areas.
 - **Accessibility in Emerging Markets**: Microsoft develops localized accessibility solutions and tools that cater to the needs of users in emerging markets. This ensures that individuals from diverse backgrounds and regions can benefit from technology.
 
