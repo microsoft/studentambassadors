@@ -3,13 +3,6 @@ Welcome to the GitHub repository for [Microsoft Learn Student Ambassador](http:/
 
 **[Create an issue](https://github.com/microsoft/studentambassadors/issues) on this repository for each new issue you want to report.** Choose the "🐞Report a Bug!" option when creating a new issue. Make sure to review the issues that others have already reported to ensure you're not reporting something duplicative. We encourage you to comment on issues already submitted if you are facing a similar challenge or have a similar feature request.
 
-**Feedback is always welcome on the following areas.** Review already logged [issues](https://github.com/microsoft/studentambassadors/issues) by other Student Ambassadors and comment on those where you're also experiencing an issue.
-- Artificial Intelligence - Azure Applied AI Service, Data Science Virtual Machines, Computer Vision, Azure Form Recognizer, QnA Maker, R Server for HDInsight, Visual Studio Code, GitHub Copilot​
-- Data - Microsoft Fabric, Azure Synapse Analytics, Power BI, Notebooks, Data Lake, CosmosDB, Azure SQL​ 
-- Application Development - Visual Studio Code, Dev CLI, Container Apps, App Service for Containers, Functions, Load Testing, Codespaces​
-- Developer Tools - Visual Studio Code, GitHub, Azure DevOps, Codespaces
-- Low Code - Power Apps, Power Automate, Power BI, Teams, m365 Developer, Visual Studio Code, Visual Studio
-
 ## Azure SQL Database Bug Bash 🪲
 
 **1. Help us improve [Azure SQL Database](https://learn.microsoft.com/azure/azure-sql/azure-sql-iaas-vs-paas-what-is-overview?view=azuresql)** - a relational database-as-a-service (DBaaS) hosted in Azure. It  handles most of the database management functions such as upgrading, patching, backups, and monitoring without user involvement.
@@ -53,7 +46,6 @@ Are you a **Python lover**? Are you learning Python at school or are you plannin
 [Portuguese](https://aka.ms/python-vs-code-survey-Portuguese), 
 [Spanish](https://aka.ms/python-vs-code-survey-Spanish), [Chinese](https://aka.ms/python-vs-code-survey-Chinese)**
 
-
 ## What is a Bug Bash? 🕵️
 A Bug Bash is a cross-team effort where everyone aims to find as many bugs as possible. A cross-functional team is important to test from a variety of perspectives and in different ways. 
 
@@ -71,6 +63,12 @@ We've heard that you want to develop technical skills, help and empower others t
 - For those that are interested in being nominated to the Gold milestone, we highly recommend you participate in Bug Bashes as your schedule allows. Collecting product feedback is important to the Student Ambassador program team and our Cloud Advocate partners, and we will consider quality, actionable feedback you provide in your nomination to the Gold milestone.
 - Help us understand how we should continue to run Bug Bashes in the future! Participate in this pilot to help us determine additional, effective ways to allow you the opportunity to provide us with product feedback and get exposure to the process and the product teams we work with to resolve outstanding issues.
 
+**Feedback is always welcome on the following areas.** Review already logged [issues](https://github.com/microsoft/studentambassadors/issues) by other Student Ambassadors and comment on those where you're also experiencing an issue.
+- Artificial Intelligence - Azure Applied AI Service, Data Science Virtual Machines, Computer Vision, Azure Form Recognizer, QnA Maker, R Server for HDInsight, Visual Studio Code, GitHub Copilot​
+- Data - Microsoft Fabric, Azure Synapse Analytics, Power BI, Notebooks, Data Lake, CosmosDB, Azure SQL​ 
+- Application Development - Visual Studio Code, Dev CLI, Container Apps, App Service for Containers, Functions, Load Testing, Codespaces​
+- Developer Tools - Visual Studio Code, GitHub, Azure DevOps, Codespaces
+- Low Code - Power Apps, Power Automate, Power BI, Teams, m365 Developer, Visual Studio Code, Visual Studio
 
 ## Tips for Providing Feedback 🐞
 When you encounter a challenge, issue or bug, consider the following when [logging your issue]((https://github.com/microsoft/studentambassadors/issues)):
