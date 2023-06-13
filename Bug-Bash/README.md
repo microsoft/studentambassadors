@@ -1,15 +1,7 @@
 # Microsoft Learn Student Ambassador Bug Bashes - Providing Product Feedback
 Welcome to the GitHub repository for [Microsoft Learn Student Ambassador](http://studentambassadors.microsoft.com/) Bug Bashes and product feedback activities. This GitHub repo contains the instructions for how to participate in the Bug Bashes as well as the space to report any feedback or issues discovered.
 
-## How do I get started?📄
-
-**1. Help us improve [Azure SQL Database](https://learn.microsoft.com/azure/azure-sql/azure-sql-iaas-vs-paas-what-is-overview?view=azuresql)** - a relational database-as-a-service (DBaaS) hosted in Azure. It  handles most of the database management functions such as upgrading, patching, backups, and monitoring without user involvement.
-
-- **[Build a quick end-to-end project with Azure SQL](https://aka.ms/SABugBashCollection) by completing the modules and reviewing the guides in the Learn Collection.**
-- OR, by [completing the groups of quickstarts below](#bug-bash-docs-collection)
-- While completing, find as many "bugs" as you can - "bugs" can be an actual defect OR a feature enhancement. What do you like/dislike about using Azure SQL? What's confusing? What errors/issues do you see?
-
-**2. [Create an issue](https://github.com/microsoft/studentambassadors/issues) on this repository for each new issue you want to report.** Choose the "🐞Report a Bug!" option when creating a new issue. Make sure to review the issues that others have already reported to ensure you're not reporting something duplicative. We encourage you to comment on issues already submitted if you are facing a similar challenge or have a similar feature request.
+**[Create an issue](https://github.com/microsoft/studentambassadors/issues) on this repository for each new issue you want to report.** Choose the "🐞Report a Bug!" option when creating a new issue. Make sure to review the issues that others have already reported to ensure you're not reporting something duplicative. We encourage you to comment on issues already submitted if you are facing a similar challenge or have a similar feature request.
 
 **Feedback is always welcome on the following areas.** Review already logged [issues](https://github.com/microsoft/studentambassadors/issues) by other Student Ambassadors and comment on those where you're also experiencing an issue.
 - Artificial Intelligence - Azure Applied AI Service, Data Science Virtual Machines, Computer Vision, Azure Form Recognizer, QnA Maker, R Server for HDInsight, Visual Studio Code, GitHub Copilot​
@@ -18,7 +10,13 @@ Welcome to the GitHub repository for [Microsoft Learn Student Ambassador](http:/
 - Developer Tools - Visual Studio Code, GitHub, Azure DevOps, Codespaces
 - Low Code - Power Apps, Power Automate, Power BI, Teams, m365 Developer, Visual Studio Code, Visual Studio
 
-## Bug Bash Docs collection
+## Azure SQL Database Bug Bash 🪲
+
+**1. Help us improve [Azure SQL Database](https://learn.microsoft.com/azure/azure-sql/azure-sql-iaas-vs-paas-what-is-overview?view=azuresql)** - a relational database-as-a-service (DBaaS) hosted in Azure. It  handles most of the database management functions such as upgrading, patching, backups, and monitoring without user involvement.
+
+- **[Build a quick end-to-end project with Azure SQL](https://aka.ms/SABugBashCollection) by completing the modules and reviewing the guides in the Learn Collection.**
+- OR, by [completing the groups of quickstarts below](#bug-bash-docs-collection)
+- While completing, find as many "bugs" as you can - "bugs" can be an actual defect OR a feature enhancement. What do you like/dislike about using Azure SQL? What's confusing? What errors/issues do you see?
 
 **Step 1: Create and Configure a Database**
 
@@ -40,6 +38,21 @@ _Complete one of these quickstarts to query your new database to create an appli
 
 - [Quickstart to Data API builder for Azure SQL Database](https://learn.microsoft.com/en-us/azure/data-api-builder/get-started/get-started-azure-sql)
 - [Application development overview](https://learn.microsoft.com/azure/azure-sql/database/develop-overview?view=azuresql)
+
+## Share your experience with Python! 🐍
+
+Please take some time to participate in this survey to support Python for Visual Studio Code team.
+
+Are you a **Python lover**? Are you learning Python at school or are you planning to do so in the future?
+
+📣 We want to hear your voice! Let us know what is your experience with Python, what is your favorite IDE/Editor, and which features you find most useful when you code.
+
+🌍 **The survey is available in multiple languages. Pick the one you feel more comfortable with:
+[English](https://aka.ms/python-vs-code-survey-English), 
+[French](https://aka.ms/python-vs-code-survey-French), 
+[Portuguese](https://aka.ms/python-vs-code-survey-Portuguese), 
+[Spanish](https://aka.ms/python-vs-code-survey-Spanish), [Chinese](https://aka.ms/python-vs-code-survey-Chinese)**
+
 
 ## What is a Bug Bash? 🕵️
 A Bug Bash is a cross-team effort where everyone aims to find as many bugs as possible. A cross-functional team is important to test from a variety of perspectives and in different ways. 
