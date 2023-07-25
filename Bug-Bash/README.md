@@ -3,6 +3,12 @@ Welcome to the GitHub repository for [Microsoft Learn Student Ambassador](http:/
 
 **[Create an issue](https://github.com/microsoft/studentambassadors/issues) on this repository for each new issue you want to report.** Choose the "🐞Report a Bug!" option when creating a new issue. Make sure to review the issues that others have already reported to ensure you're not reporting something duplicative. We encourage you to comment on issues already submitted if you are facing a similar challenge or have a similar feature request.
 
+## Microsoft Fabric Bug Bash 🪲
+Help us understand the getting started experience with Microsoft Fabric. You have been assigned a persona (Data Engineer, Data Scientist, Data Analyst), **use the PDF shared to find your persona page and work through the links** providing feedback  on your experienece and any issues you face.
+
+Submit a bug using the instructions above and assign the **Microsoft Fabric Bug Bash** label + your **persona label** (Data Engineer, Data Scientist, Data Analyst)
+
+
 ## Azure SQL Database Bug Bash 🪲
 
 **1. Help us improve [Azure SQL Database](https://learn.microsoft.com/azure/azure-sql/azure-sql-iaas-vs-paas-what-is-overview?view=azuresql)** - a relational database-as-a-service (DBaaS) hosted in Azure. It  handles most of the database management functions such as upgrading, patching, backups, and monitoring without user involvement.
