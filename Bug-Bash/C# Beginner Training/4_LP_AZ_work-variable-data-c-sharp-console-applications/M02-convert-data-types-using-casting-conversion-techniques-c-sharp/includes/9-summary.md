@@ -14,3 +14,4 @@ Finally, we used the `TryParse()` methods when the conversion from a `string` to
 Without this wealth of options, it would be difficult to work in a strongly typed programming language. Fortunately, this well executed system of types, conversion, and casting can be harnessed to build error free applications.
 
 ## TODO: Add Ref links on C# types mapped to .NET types
+[Casting and type conversions](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/types/casting-and-type-conversions)
