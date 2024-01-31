@@ -30,6 +30,7 @@ Our goal is to improve the usability of this AI project collection for you. A di
 We've heard that you want to develop technical skills, help and empower others to learn and grow and contribute to the community. Providing product feedback and reporting issues via this Bug Bash can help you do just that.
 
 - Reviewing these materials will not only help you further develop your technical skills, but it will also provide a better learning experience for others.
+- The valuable feedback you provide to Microsoft is regarded as an important community contribution to the assessment of your MVP renewal
 - Help us understand how we should continue to run Bug Bashes in the future! Participate in this pilot to help us determine additional, effective ways to allow you the opportunity to provide us with product feedback and get exposure to the process and the product teams we work with to resolve outstanding issues.
 
 ## Tips for Providing Feedback 🐞
