@@ -1,5 +1,5 @@
 # Azure Networks for Beginners: VNet, Subnet, NSG, and Routes Without Confusion
-### Thiago Kusal | LinkedIn- @tkusal
+### Thiago Kusal, Senior Microsoft Student Ambassador | LinkedIn- @tkusal
 
 A virtual machine can't talk to another. The natural reaction is to open the portal, stare at fifteen network options and click on something until the icon turns green. It is a strategy similar to pressing all the elevator buttons to get there faster: there's a lot of movement, but it doesn't improve the diagnosis.
 
