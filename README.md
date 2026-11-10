@@ -1,20 +1,20 @@
 # Microsoft Student Ambassadors Community
-This GitHub repository serves as a space for Microsoft Student Ambassador Community contributions.
+This GitHub repository is a space for contributions from the Microsoft Student Ambassadors community.
 
 Use this repository to share resources, templates, guides, and improvements that support Student Ambassadors worldwide. Community members can collaborate through pull requests, discussions, and issue tracking to keep content current and useful.
 
 ## Contributing
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+This project welcomes contributions and suggestions. Most contributions require you to agree to a
+Contributor License Agreement (CLA), declaring that you have the right to, and do, grant us
+the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com/.
 
 When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+a CLA and decorate the PR appropriately (for example, status check or comment). Simply follow the
+instructions provided by the bot. You only need to do this once across all repos that use our CLA.
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
+For more information, see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
 ## Trademarks
@@ -23,4 +23,4 @@ This project may contain trademarks or logos for projects, products, or services
 trademarks or logos is subject to and must follow 
 [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
 Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+Any use of third-party trademarks or logos is subject to those third parties' policies.
