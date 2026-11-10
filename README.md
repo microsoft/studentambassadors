@@ -1,4 +1,4 @@
-# Microsoft Student Ambassador Community Contributions
+# Microsoft Student Ambassadors Community
 This GitHub repository serves as a space for Microsoft Student Ambassador Community contributions.
 
 Use this repository to share resources, templates, guides, and improvements that support Student Ambassadors worldwide. Community members can collaborate through pull requests, discussions, and issue tracking to keep content current and useful.
